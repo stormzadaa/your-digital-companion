@@ -26,9 +26,10 @@ export const Route = createFileRoute("/horarios")({
 });
 
 function toMinutes(hhmm: string) {
-  const [h, m] = hhmm.split(":").map(Number);
-  return h * 60 + m;
+  const [h = "0", m = "0"] = hhmm.split(":");
+  return Number(h) * 60 + Number(m);
 }
+
 
 function HorariosPage() {
   const [now, setNow] = useState<number | null>(null);
