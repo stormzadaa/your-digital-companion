@@ -20,7 +20,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vswaysmonkey",
     "name": "3 Dancing Monkeys™",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT"
@@ -608,7 +608,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vs25bullfiesta",
     "name": "Bull Fiesta",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT"
@@ -1176,7 +1176,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vs20drgbless",
     "name": "Dragon Hero™",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT"
@@ -1494,7 +1494,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vswaysconcoll",
     "name": "Firebird Spirit",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT"
@@ -2023,7 +2023,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vs25goldpig",
     "name": "Golden Pig",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT",
@@ -2181,7 +2181,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vs20hstgldngt",
     "name": "Heist for the Golden Nuggets™",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT"
@@ -2847,7 +2847,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vs25newyear",
     "name": "Lucky New Year",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT",
@@ -3204,7 +3204,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vswaysmorient",
     "name": "Mystery Of The Orient",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT"
@@ -4845,7 +4845,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vs20pistols",
     "name": "Wild West Duels™",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT"
@@ -4947,7 +4947,7 @@ export const catalogo: Jogo[] = [
   {
     "code": "vs25wolfgold",
     "name": "Wolf Gold",
-    "rtp": null,
+    "rtp": 96.5,
     "provider": "Pragmatic Play",
     "tags": [
       "VIDEOSLOT",
