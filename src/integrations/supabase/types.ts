@@ -14,13 +14,180 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      profiles: {
+        Row: {
+          balance: number
+          created_at: string
+          id: string
+          nome: string | null
+          referral_code: string
+          referred_by: string | null
+          spins: number
+          updated_at: string
+        }
+        Insert: {
+          balance?: number
+          created_at?: string
+          id: string
+          nome?: string | null
+          referral_code: string
+          referred_by?: string | null
+          spins?: number
+          updated_at?: string
+        }
+        Update: {
+          balance?: number
+          created_at?: string
+          id?: string
+          nome?: string | null
+          referral_code?: string
+          referred_by?: string | null
+          spins?: number
+          updated_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "profiles_referred_by_fkey"
+            columns: ["referred_by"]
+            isOneToOne: false
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      referrals: {
+        Row: {
+          claimed_at: string | null
+          created_at: string
+          id: string
+          referred_id: string
+          referred_nome: string | null
+          referrer_id: string
+          reward: number
+          spins: number
+          spins_required: number
+        }
+        Insert: {
+          claimed_at?: string | null
+          created_at?: string
+          id?: string
+          referred_id: string
+          referred_nome?: string | null
+          referrer_id: string
+          reward?: number
+          spins?: number
+          spins_required?: number
+        }
+        Update: {
+          claimed_at?: string | null
+          created_at?: string
+          id?: string
+          referred_id?: string
+          referred_nome?: string | null
+          referrer_id?: string
+          reward?: number
+          spins?: number
+          spins_required?: number
+        }
+        Relationships: [
+          {
+            foreignKeyName: "referrals_referred_id_fkey"
+            columns: ["referred_id"]
+            isOneToOne: true
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "referrals_referrer_id_fkey"
+            columns: ["referrer_id"]
+            isOneToOne: false
+            referencedRelation: "profiles"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
     }
     Views: {
       [_ in never]: never
     }
     Functions: {
-      [_ in never]: never
+      add_spins: {
+        Args: { _qtd: number }
+        Returns: {
+          balance: number
+          created_at: string
+          id: string
+          nome: string | null
+          referral_code: string
+          referred_by: string | null
+          spins: number
+          updated_at: string
+        }
+        SetofOptions: {
+          from: "*"
+          to: "profiles"
+          isOneToOne: true
+          isSetofReturn: false
+        }
+      }
+      apply_referral: {
+        Args: { _code: string }
+        Returns: {
+          balance: number
+          created_at: string
+          id: string
+          nome: string | null
+          referral_code: string
+          referred_by: string | null
+          spins: number
+          updated_at: string
+        }
+        SetofOptions: {
+          from: "*"
+          to: "profiles"
+          isOneToOne: true
+          isSetofReturn: false
+        }
+      }
+      ensure_profile: {
+        Args: { _nome?: string }
+        Returns: {
+          balance: number
+          created_at: string
+          id: string
+          nome: string | null
+          referral_code: string
+          referred_by: string | null
+          spins: number
+          updated_at: string
+        }
+        SetofOptions: {
+          from: "*"
+          to: "profiles"
+          isOneToOne: true
+          isSetofReturn: false
+        }
+      }
+      open_chest: {
+        Args: { _referral_id: string }
+        Returns: {
+          claimed_at: string | null
+          created_at: string
+          id: string
+          referred_id: string
+          referred_nome: string | null
+          referrer_id: string
+          reward: number
+          spins: number
+          spins_required: number
+        }
+        SetofOptions: {
+          from: "*"
+          to: "referrals"
+          isOneToOne: true
+          isSetofReturn: false
+        }
+      }
     }
     Enums: {
       [_ in never]: never
