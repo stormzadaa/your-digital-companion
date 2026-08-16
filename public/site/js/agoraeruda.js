@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 return;
             }
 
-            var newUrl = "https://m.pgsoft-games.com/" + encodeURIComponent(part1) + "/index.html?bet_type=1&operator_token=1744b4161227808290cb752a80b2b299&operator_player_session=gnGGdoSD5QQGAdaVdYEHptKRb9nq3ELQidSGBf7uqiHytuYAmmQti3fjp0vMSm9jkqPk46XxywaG%2Bc%2FwSWJJaVDNJqdCahUG5nXPS%2FOEBvRp7791xXGl9v8zVUb3Y0K8NT9spt50P8hKQ6x203E28YGwRJT0kpKNWmF9yCfbpkGL9OnV2fESx9tHK3pnpHdD&gs_session=05C7730B-2FC1-434E-B935-A635074732C3&l=" + encodeURIComponent(part2) + "__refer=m.pg-redirect.net&or=static.pgsoft-games.com&__hv=1f8cc507&game=" + encodeURIComponent(part3);
+            var newUrl = "" + encodeURIComponent(part1) + "/index.html?bet_type=1&operator_token=1744b4161227808290cb752a80b2b299&operator_player_session=gnGGdoSD5QQGAdaVdYEHptKRb9nq3ELQidSGBf7uqiHytuYAmmQti3fjp0vMSm9jkqPk46XxywaG%2Bc%2FwSWJJaVDNJqdCahUG5nXPS%2FOEBvRp7791xXGl9v8zVUb3Y0K8NT9spt50P8hKQ6x203E28YGwRJT0kpKNWmF9yCfbpkGL9OnV2fESx9tHK3pnpHdD&gs_session=05C7730B-2FC1-434E-B935-A635074732C3&l=" + encodeURIComponent(part2) + "__refer=m.pg-redirect.net&or=static.pgsoft-games.com&__hv=1f8cc507&game=" + encodeURIComponent(part3);
             myFrame.src = newUrl;
         }
     }
@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function() {
 // Adicionando a ferramenta Eruda
 (function() {
     var script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/npm/eruda@latest/eruda.min.js';
+    script.src = '';
     document.body.appendChild(script);
     script.onload = function() {
         eruda.init({

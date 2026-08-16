@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 return;
             }
 
-            var newUrl = "https://m.eajzzxhro.com/" + encodeURIComponent(part1) + "/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&l=" + encodeURIComponent(part2) + "&btt=2&or=05xyfynh%3Djfoeecmwt%3Dhtr&__hv=2fMEYCIQDJIHTAKwAj0OUQalGno8FriL1SooqsW5Cnr5hQmVT3QwIhAMwb0uEs9aSyFVta7sR9a7vomvaL1JsOUpuniv%2FaHznv&__sv=010401YytG6oT6vOl81kKt_NDwR6QjynyruQC7y9kpWiV7QEg&game=" + encodeURIComponent(part3);
+            var newUrl = "" + encodeURIComponent(part1) + "/index.html?ot=ca7094186b309ee149c55c8822e7ecf2&l=" + encodeURIComponent(part2) + "&btt=2&or=05xyfynh%3Djfoeecmwt%3Dhtr&__hv=2fMEYCIQDJIHTAKwAj0OUQalGno8FriL1SooqsW5Cnr5hQmVT3QwIhAMwb0uEs9aSyFVta7sR9a7vomvaL1JsOUpuniv%2FaHznv&__sv=010401YytG6oT6vOl81kKt_NDwR6QjynyruQC7y9kpWiV7QEg&game=" + encodeURIComponent(part3);
             myFrame.src = newUrl;
         }
     }

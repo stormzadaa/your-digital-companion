@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
 
-      var newUrl = "https://m.pgf-ass0fz.com/" + encodeURIComponent(part1) + "/index.html?btt=1&oc=0&iwk=1&ot=45b1f3e2b6fc712ea66f3b3329f8d5b4&ops=e724e2541e75483bb1bde8277a2ee103&l=" + encodeURIComponent(part2) + "&op=6745237&or=static.pgf-nmu1st.com&__refer=m.pgf-ass0fz.com&__hv=1fe0c4a4&gameName=" + encodeURIComponent(part3);
+      var newUrl = "" + encodeURIComponent(part1) + "/index.html?btt=1&oc=0&iwk=1&ot=45b1f3e2b6fc712ea66f3b3329f8d5b4&ops=e724e2541e75483bb1bde8277a2ee103&l=" + encodeURIComponent(part2) + "&op=6745237&or=static.pgf-nmu1st.com&__refer=m.pgf-ass0fz.com&__hv=1fe0c4a4&gameName=" + encodeURIComponent(part3);
       myFrame.src = newUrl;
     }
   }

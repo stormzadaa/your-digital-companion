@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
 
-      var newUrl = "https://m.pgn-nmgab.com/" + encodeURIComponent(part1) + "/?gid=126&l=" + encodeURIComponent(part2) + "&btt=1&oc=0&iwk=1&ot=0yJA0tHCwIQigq5P6cDsy&ops=IBZKDV3y27Wm4JBZ-95Oh&op=494066&or=static.pgn-nmgab.com&__refer=m.pgn-nmgab.com&__hv=66a2af20&game=" + encodeURIComponent(part3);
+      var newUrl = "" + encodeURIComponent(part1) + "/?gid=126&l=" + encodeURIComponent(part2) + "&btt=1&oc=0&iwk=1&ot=0yJA0tHCwIQigq5P6cDsy&ops=IBZKDV3y27Wm4JBZ-95Oh&op=494066&or=static.pgn-nmgab.com&__refer=m.pgn-nmgab.com&__hv=66a2af20&game=" + encodeURIComponent(part3);
       myFrame.src = newUrl;
     }
   }

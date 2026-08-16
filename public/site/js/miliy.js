@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
 
-      var newUrl = "https://m.pgf-nmu2nd.com/" + encodeURIComponent(part1) + "/index.html?ot=D136B743-BC41-45CA-A20C-A6BCDDB4584E&btt=1&ops=8a09008d-d1ef-4292-a4cc-942e59dd50be&l=" + encodeURIComponent(part2) + "&or=18klslau%3Dhyx-fem2fv%3Duge&__hv=1fb2c85a&game=" + encodeURIComponent(part3);
+      var newUrl = "" + encodeURIComponent(part1) + "/index.html?ot=D136B743-BC41-45CA-A20C-A6BCDDB4584E&btt=1&ops=8a09008d-d1ef-4292-a4cc-942e59dd50be&l=" + encodeURIComponent(part2) + "&or=18klslau%3Dhyx-fem2fv%3Duge&__hv=1fb2c85a&game=" + encodeURIComponent(part3);
       myFrame.src = newUrl;
     }
   }
