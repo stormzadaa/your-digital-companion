@@ -1,0 +1,4 @@
+www.google-analytics.com/g/collect@444paga.com
+444paga.com##TR
+444paga.com##DIV.swiper-box.animated01[data-v-4c1da8ff][data-v-9f489d03]
+444paga.com##NAV.flex.aligns-center.navbar

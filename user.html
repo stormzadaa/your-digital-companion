@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>m.segt.com</title>
+  <link rel="stylesheet" href="css/agora.css">
+  <link rel="preload" href="https://rtplive.ai/game-providers/pgsoft/" as="document">
+  <link rel="preload" href="https://www.pragmaticplay.ppg.br/" as="document">
+</head>
+<body>
+  <div class="sidebar">
+    <table>
+      <tr>
+        <th>Horários</th>
+        <th>Horários</th>
+      </tr>
+      <tr>
+        <td>22:49</td>
+        <td>22:48</td>
+      </tr>
+      <tr>
+        <td>23:01</td>
+        <td>23:00</td>
+      </tr>
+      <tr>
+        <td>23:13</td>
+        <td>23:12</td>
+      </tr>
+      <tr>
+        <td>23:25</td>
+        <td>23:24</td>
+      </tr>
+      <tr>
+        <td>23:37</td>
+        <td>23:36</td>
+      </tr>
+      <tr>
+        <td>23:49</td>
+        <td>23:48</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="main-content">
+    <button id="sidebarToggleBtn" aria-label="Toggle Sidebar">☰</button>
+    
+    <label for="menu"></label>
+    <select id="menu" class="editablePart">
+       <option value="0">PG Lobby</option>
+       <option value="1368367">Alchemy Gold</option>
+       <option value="1623475">Anubis Wrath</option>
+       <option value="1340277">Asgardian Rising</option>
+    </select>
+
+    <label for="editablePart2"></label>
+    <select id="editablePart2" class="editablePart">    
+      <option value="pt-Br">Pt-BR</option>
+      <option value="pt-br">Portu Brasil</option>
+      <option value="pt-pt">Português</option>
+      <option value="es-ar">Argentina</option>
+    </select>
+    
+    <button id="loadButton">Rum</button>
+  
+    <p id="horario-atual"></p>
+
+    <p id="editablePart3" class="editablePart" contenteditable="false"></p>
+
+    <iframe name="myFrame" id="myFrame" src="about:blank" loading="lazy" allow="encrypted-media" width="100%" height="560" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+
+    <div class="iframe-container" id="iframeContainer1">
+      <div class="header">
+        <button onclick="minimizeIframe('iframeContainer1')" aria-label="Minimize">⇓</button>
+        <button onclick="maximizeIframe('iframeContainer1')" aria-label="Maximize">⇕</button>
+        <button onclick="reloadIframe('innerIframe1')" aria-label="Reload">↻</button>
+      </div>
+      <iframe id="innerIframe1" src="https://www.pragmaticplay.ppg.br/" loading="lazy"></iframe>
+    </div>
+
+    <div class="iframe-container" id="iframeContainer2" style="left: 10px; right: auto;">
+      <div class="header">
+        <button onclick="minimizeIframe('iframeContainer2')" aria-label="Minimize">⇓</button>
+        <button onclick="maximizeIframe('iframeContainer2')" aria-label="Maximize">⇕</button>
+        <button onclick="reloadIframe('innerIframe2')" aria-label="Reload">↻</button>
+      </div>
+      <iframe id="innerIframe2" src="https://444paga.com/#/home" loading="lazy"></iframe>
+    </div>
+  </div>
+
+  <script src="js/agoraa.js" defer></script>
+</body>
+</html>

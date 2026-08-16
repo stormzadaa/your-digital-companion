@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Jogos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .search-container {
+            margin: 20px auto;
+            width: 80%;
+        }
+        #search {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .container {
+            width: 90%;
+            margin: 20px auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            justify-content: center;
+        }
+        .game-card {
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+        }
+        .game-card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .game-card h3 {
+            font-size: 16px;
+            margin: 10px 0;
+        }
+        .iframe-container {
+            width: 90%;
+            margin: 20px auto;
+            display: none;
+        }
+        iframe {
+            width: 100%;
+            height: 500px;
+            border: none;
+            background: #fff;
+        }
+        #lobby-button {
+            display: none;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 18px;
+            background: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #lobby-button:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+    <h1>Lista de Jogos</h1>
+    
+    <div class="search-container" id="search-container">
+        <input type="text" id="search" placeholder="Buscar jogo..." onkeyup="filterGames()">
+    </div>
+
+    <div class="container" id="game-list"></div>
+
+    <button id="lobby-button" onclick="showLobby()">Lobby</button>
+
+    <div class="iframe-container" id="iframe-container">
+        <h2>Jogue Aqui</h2>
+        <iframe id="game-frame" src="" frameborder="0"></iframe>
+    </div>
+
+    <script>
+        let gamesData = [];
+
+        // Carrega os dados do JSON
+        fetch('ou.json')
+            .then(response => response.json())
+            .then(games => {
+                gamesData = games;
+                displayGames(games);
+            })
+            .catch(error => console.error('Erro ao carregar JSON:', error));
+
+        // Exibe os jogos
+        function displayGames(games) {
+            const container = document.getElementById('game-list');
+            container.innerHTML = ''; // Limpa os jogos anteriores
+
+            games.forEach(game => {
+                const card = document.createElement('div');
+                card.classList.add('game-card');
+
+                card.innerHTML = `
+                    <img src="${game.img}" alt="${game.title}">
+                    <h3>${game.title}</h3>
+                `;
+
+                // Adiciona evento de clique para abrir no iframe e ocultar a lista
+                card.addEventListener('click', () => {
+                    document.getElementById('game-frame').src = game.url;
+                    document.getElementById('game-list').style.display = 'none';
+                    document.getElementById('search-container').style.display = 'none';
+                    document.getElementById('iframe-container').style.display = 'block';
+                    document.getElementById('lobby-button').style.display = 'block';
+                });
+
+                container.appendChild(card);
+            });
+        }
+
+        // Filtra os jogos na barra de pesquisa
+        function filterGames() {
+            const searchText = document.getElementById('search').value.toLowerCase();
+            const filteredGames = gamesData.filter(game => 
+                game.title.toLowerCase().includes(searchText)
+            );
+            displayGames(filteredGames);
+        }
+
+        // Voltar para o Lobby (Lista de Jogos)
+        function showLobby() {
+            document.getElementById('game-list').style.display = 'grid';
+            document.getElementById('search-container').style.display = 'block';
+            document.getElementById('iframe-container').style.display = 'none';
+            document.getElementById('lobby-button').style.display = 'none';
+            document.getElementById('game-frame').src = '';
+        }
+    </script>
+</body>
+</html>

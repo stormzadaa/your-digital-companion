@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador de String</title>
+</head>
+<body>
+    <h1>Decodificador de String</h1>
+    <input type="text" id="encodedString" placeholder="Insira a string codificada" size="100">
+    <button onclick="decodeString()">Decodificar</button>
+    <h2>Resultado:</h2>
+    <pre id="result"></pre>
+
+    <script>
+        // Função para decodificar a string "E"
+        function decodeE(a) {
+            let e = [];
+            for (let i = 0; i < a.length; i++) {
+                let c = a[i];
+                let d = parseInt(c.substring(0, 2), 16);
+                if (isNaN(d)) throw "URL format error";
+                e.push(d);
+                a[i] = c.substring(2);
+            }
+            return e;
+        }
+
+        // Função para decodificar a string "F"
+        function decodeF(a) {
+            function e(f, G) {
+                return f.replace(/[a-zA-Z\-_]/g, function(h) {
+                    if ("-" == h) return "+";
+                    if ("_" == h) return "/";
+                    let hCode = h.charCodeAt(0);
+                    let v = 97 <= hCode ? 97 : 65;
+                    return String.fromCharCode((hCode - v - G + 26) % 26 + v);
+                });
+            }
+
+            let b = [];
+            for (let i = 0; i < a.length; i++) {
+                let d = a[i];
+                let m = parseInt(d.substring(0, 2), 10);
+                if (isNaN(m)) throw "URL format error 2";
+                let decodedString = e(d.substring(2), m);
+                // Corrigir padding para Base64
+                while (decodedString.length % 4 !== 0) {
+                    decodedString += "=";
+                }
+                b.push(atob(decodedString));
+            }
+            return b;
+        }
+
+        function decodeString() {
+            try {
+                let inputString = document.getElementById("encodedString").value;
+                let substrings = inputString.match(/.{1,2}[a-zA-Z0-9-_]+/g);
+
+                // Decodificar usando a função "E"
+                let eDecoded = decodeE(substrings.slice());
+
+                // Decodificar usando a função "F"
+                let fDecoded = decodeF(substrings.slice());
+
+                document.getElementById("result").innerText = fDecoded.join("\n");
+            } catch (error) {
+                document.getElementById("result").innerText = "Erro: " + error;
+            }
+        }
+    </script>
+</body>
+</html>

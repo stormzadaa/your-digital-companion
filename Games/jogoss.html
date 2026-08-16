@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Jogos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        #search {
+            width: 80%;
+            max-width: 400px;
+            padding: 10px;
+            margin: 20px auto;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            display: block;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
+        .game-card {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: center;
+            cursor: pointer;
+        }
+        .game-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        .game-card h3 {
+            font-size: 16px;
+            margin: 10px 0 5px;
+        }
+        .game-card p {
+            font-size: 14px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Lista de Jogos</h1>
+    <input type="text" id="search" placeholder="Buscar jogo..." onkeyup="filterGames()">
+    <div class="container" id="game-list"></div>
+
+    <script>
+        let gamesData = [];  // Variável para armazenar os jogos
+
+        // Carregar o JSON
+        fetch('e.json')
+            .then(response => response.json())
+            .then(data => {
+                gamesData = data.Game;
+                renderGames(gamesData);
+            })
+            .catch(error => console.error('Erro ao carregar o JSON:', error));
+
+        // Função para renderizar os jogos
+        function renderGames(games) {
+            const gameList = document.getElementById('game-list');
+            gameList.innerHTML = ''; // Limpar antes de renderizar
+
+            games.forEach(game => {
+                const gameCard = document.createElement('div');
+                gameCard.classList.add('game-card');
+
+                const gameUrl = `https://demogamesfree-asia.pragmaticplay.net/gs2c/openGame.do?lang=pt&cur=BRL&jurisdiction=99&gameSymbol=${game.Code}&lobbyUrl=https%3A%2F%2Fcdn.githubraw.com%2FJoseIvo09%2Flinosbet%2Frefs%2Fheads%2Fmain%2FGames%2Fjogoss.html`;
+
+                gameCard.innerHTML = `
+                    <img src="${game.Image}" alt="${game.EnglishName}">
+                    <h3>${game.EnglishName}</h3>
+                    <p>RTP: ${game.RTP}%</p>
+                `;
+
+                gameCard.addEventListener('click', () => {
+                    window.open(gameUrl, '_blank'); // Abrir o jogo em uma nova aba
+                });
+
+                gameList.appendChild(gameCard);
+            });
+        }
+
+        // Função de filtro para buscar jogos
+        function filterGames() {
+            const searchTerm = document.getElementById('search').value.toLowerCase();
+            const filteredGames = gamesData.filter(game => 
+                game.EnglishName.toLowerCase().includes(searchTerm)
+            );
+            renderGames(filteredGames);
+        }
+    </script>
+
+</body>
+</html>

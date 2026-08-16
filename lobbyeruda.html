@@ -1,0 +1,205 @@
+<script src="js/eruda.min.js"></script>
+<script>
+    eruda.init({
+        tool: ['console', 'network', 'resources', 'info', 'snippets', 'settings']
+    });
+    eruda.get().config.set('displaySize', 60);
+    eruda.remove('');
+</script>
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>www.betlino.com</title>
+  <style>
+    body {
+      font-family: "Exo 2", "Open Sans", sans-serif;
+      line-height: 1.4;
+      background-color: #000;
+      font-weight: bolder;
+      color: #fff;
+    }
+
+    .editablePart,
+    .menuInput {
+      padding: 0;
+      margin: 0;
+      font-size: 20px;
+      color: #fff;
+      border: 2px solid transparent;
+      background-color: transparent;
+      border-radius: 0;
+      cursor: pointer;
+      width: 200px;
+      height: 25px;
+    }
+
+    .editablePart:hover,
+    .menuInput:hover {
+      background-color: transparent;
+    }
+
+    #loadButton {
+      background-color: transparent;
+      border: 0;
+      color: #fff;
+      border-radius: 1px;
+      cursor: pointer;
+      padding: 5px 10px;
+      margin: 10px 0;
+      font-size: 14px;
+      display: inline-block;
+    }
+
+    #loadButton:hover {
+      background-color: transparent;
+      color: #000;
+    }
+
+    #horario-atual {
+      font-family: 'mono', sans-serif, Arial Black, Gadget;
+      font-size: 12px;
+      font-weight: bold;
+      color: #fff;
+      background-color: transparent;
+      padding: 5px;
+      border-radius: 5px;
+      display: block;
+      margin-top: 5px;
+      text-align: center;
+      position: absolute;
+      width: 15%;
+      right: 38px;
+      top: 85px;
+      -webkit-text-fill-color: white;
+      -webkit-text-stroke: 0.6px black;
+    }
+
+    #editablePart3 {
+      font-family: 'Exo 2', 'Open Sans', sans-serif;
+      font-size: 13px;
+      font-weight: bold;
+      color: #fff;
+      background-color: transparent;
+      padding: 0.2px;
+      border-radius: 1px;
+      display: block;
+      margin-top: 7px;
+      text-align: center;
+      position: absolute;
+      width: 30%;
+      left: 10px;
+      top: 85px;
+      -webkit-text-fill-color: white;
+      -webkit-text-stroke: 0.6px black;
+    }
+
+    /* Estilo para o botão "Home" */
+    #homeButton {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      margin: 10px;
+      font-size: 12px;
+      border-radius: 5px;
+    }
+
+    #homeButton:hover {
+      background-color: #555;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Botão Home -->
+  <button onclick="window.location.href='https://linosbet.vercel.app/inicio.html';" id="homeButton">Home</button>
+
+  <label for="menu"></label>
+  <select id="menu" class="editablePart">
+    <option value="HQzYcvcfDmDbVXkR6tjr62">001</option>
+    <option value="HytuYAmmQti3fjp0vMSm9j">002</option>
+    <option value="Geez6iPCMuzfO7y9DBs94n">003</option>
+    <option value="H9eXXK8mdYrFYclgJNF4Oo">004</option>
+    <option value="EDoSPWLHgpeyaPW6F8mMlD">005</option>
+    <option value="E0X6hFj5nS/7ZoKRoJZSYa">006</option>
+  </select>
+
+  <label for="editablePart2"></label>
+  <select id="editablePart2" class="editablePart">
+    <option value="pt-Br">Pt-BR</option>
+    <option value="pt-pt">Português</option>
+    <option value="es">Espanhol</option>
+    <option value="en-us">US</option>
+    <option value="id-ID">Indonésio</option>
+    <option value="fr-ca">Francês</option>
+    <option value="es-en">EN</option>
+    <option value="ru">Russo</option>
+    <option value="ar">Árabe</option>
+    <option value="zh-cn">Chinês Simplificado</option>
+    <option value="zh-tw">Chinês Tradicional</option>
+    <option value="de-ge">Alemão</option>
+    <option value="it">Italiano</option>
+    <option value="ja-jv">Japonês</option>
+    <option value="ko">Coreano</option>
+    <option value="th">Tailandês</option>
+  </select>
+
+  <button id="loadButton">Rum</button>
+
+  <p id="horario-atual"></p>
+
+  <p id="editablePart3" class="editablePart" contenteditable="false"></p>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      const loadButton = document.getElementById("loadButton");
+      const myFrame = document.getElementById("myFrame");
+      const menu = document.getElementById("menu");
+      const editablePart3 = document.getElementById("editablePart3");
+
+      loadButton.addEventListener('click', loadUrl);
+
+      menu.addEventListener('change', function () {
+        editablePart3.innerText = menu.options[menu.selectedIndex].text;
+      });
+
+      function loadUrl() {
+        var part1 = menu.value;
+        var part2 = document.getElementById("editablePart2").value;
+        var part3 = editablePart3.innerText;
+
+        if (part1.trim() === '' || part2.trim() === '' || part3.trim() === '') {
+          alert('Por favor, insira todas as partes editáveis.');
+          return;
+        }
+
+        var newUrl = "https://public.pgsoft-games.com/web-lobby/?operator_token=1744b4161227808290cb752a80b2b299&operator_player_session=gnGGdoSD5QQGAdaVdYEHptKRb9nq3ELQidSGBf7uqi" + encodeURIComponent(part1) + "kqPk46XxywaG%2Bc%2FwSWJJaVDNJqdCahUG5nXPS%2FOEBvRp7791xXGl9v8zVUb3Y0K8NT9spt50P8hKQ6x203E28YGwRJT0kpKNWmF9yCfbpkGL9OnV2fESx9tHK3pnpHdD&gs_session=05C7730B-2FC1-434E-B935-A635074732C3&l=" + encodeURIComponent(part2) + "__refer=m.pg-redirect.net&or=static.pgsoft-games.com&__hv=1fbc8c6d&game=" + encodeURIComponent(part3);
+        myFrame.src = newUrl;
+      }
+
+      function mostrarHorarioAtual() {
+        var data = new Date();
+        var options = {
+          timeZone: "America/Sao_Paulo",
+          hour: "2-digit",
+          minute: "2-digit",
+          second: "2-digit",
+            fractionalSecondDigits: 3
+        };
+        var horarioAtual = new Intl.DateTimeFormat("pt-BR", options).format(data);
+        document.getElementById("horario-atual").innerHTML = horarioAtual;
+      }
+
+      mostrarHorarioAtual();
+      setInterval(mostrarHorarioAtual, 1000);
+    });
+  </script>
+
+  <iframe name="myFrame" id="myFrame" src="about:blank" allow="encrypted-media" width="100%" height="560" scrolling="true" frameborder="no" allowfullscreen="true"></iframe>
+</body>
+
+</html>

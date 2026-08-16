@@ -1,0 +1,124 @@
+body {
+  font-family: 'Verdana', sans-serif;
+  background-color: #000;
+  font-weight: bolder;
+}
+
+.editablePart, .menuInput {
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+  color: #000;
+  border: 2px solid transparent; 
+  background-color: transparent;
+  border-radius: 0px;
+  cursor: pointer;
+  width: 200px; 
+  height: 25px;
+}
+
+.editablePart:hover, .menuInput:hover {
+  background-color: transparent;
+}
+
+#loadButton {
+  background-color: transparent;
+  border: 0px solid #fff; 
+  color: #fff;
+  border-radius: 1px;
+  cursor: pointer;
+  padding: 5px 10px; 
+  margin: 10px 0;
+  font-size: 14px;
+  display: inline-block; 
+}
+
+#loadButton:hover {
+  background-color: transparent;
+  color: #000;
+}
+
+#horario-atual {
+  font-family: 'mono', sans-serif, Arial Black, Gadget;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.3em;
+  color: #000000; 
+  background-color: transparent;
+  padding: 5px;
+  border-radius: 5px;
+  display: block;
+  margin-top: 10px;
+  text-align: center;
+  position: absolute;
+  z-index: 1000;
+  width: 15%;
+  height: auto;
+  right: 38px;
+  top: 50px;
+  -webkit-text-fill-color: #fff;
+  -webkit-text-stroke: 0.5px #000;
+}
+
+.iframe-container {
+  position: absolute; /* Posição absoluta para a janela flutuante */
+  bottom: 10px;
+  top: 100px;
+  right: 10px;
+  width: 300px; /* Ajusta a largura para compensar a redução */
+  height: 350px; /* Ajusta a altura para compensar a redução */
+  border: 1px solid #000;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  z-index: 1000;
+  resize: both; /* Permitir redimensionamento */
+  overflow: auto; /* Permitir rolagem dentro da janela */
+}
+
+.iframe-container iframe {
+  transform: scale(0.8); /* 0.8 representa 80% do tamanho original */
+  transform-origin: 0 0; /* Define a origem da transformação para o canto superior esquerdo */
+  width: 125%; /* Ajusta a largura para compensar a redução */
+  height: 125%; /* Ajusta a altura para compensar a redução */
+  border: none;
+}
+
+.minimized {
+  width: 65px !important; /* Forçar largura mínima */
+  height: 65px !important; /* Forçar altura mínima */
+}
+
+.header {
+  background: #f1f1f1;
+  padding: 5px;
+  cursor: move; /* Cursor de movimento */
+  text-align: right;
+}
+
+.header button {
+  background: #000000;
+  color: #fff;
+  border: none;
+  padding: 2px 5px;
+  cursor: pointer;
+}
+
+#editablePart3 {
+  font-size: 12px;
+  color: #000; 
+  letter-spacing: 0.2em; 
+  background-color: transparent; 
+  padding: 0.3px;  
+  border-radius: 1px;
+  display: block;
+  margin-top: 7px;
+  text-align: center;
+  position: absolute;
+  z-index: 1000;
+  width: 50%;
+  left: 1px;
+  top: 55px;
+  -webkit-text-fill-color: #ffffff;
+  -webkit-text-stroke: 0.9px #000000;
+  font-family: 'Arial Black', Verdana, sans-serif, Gadget, Arial Black;
+}

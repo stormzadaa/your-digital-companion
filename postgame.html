@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificar Sessão do Jogador</title>
+</head>
+<body>
+    <h1>Verificar Sessão do Jogador</h1>
+    <form action="https://api.pgf-nmu2nd.com/web-api/auth/session/v2/verifyOperatorPlayerSession" method="POST">
+        <label for="traceId">traceId:</label>        <input type="text" id="traceId" name="traceId" value="" required><br><br>
+
+        <label for="btt">BTT:</label>
+        <input type="text" id="btt" name="btt" value="1" required><br><br>
+        
+        <label for="vc">VC:</label>
+        <input type="text" id="vc" name="vc" value="2" required><br><br>
+        
+        <label for="pf">PF:</label>
+        <input type="text" id="pf" name="pf" value="3" required><br><br>
+        
+        <label for="l">Linguagem:</label>
+        <input type="text" id="l" name="l" value="pt" required><br><br>
+        
+        <label for="gi">GI:</label>
+        <input type="text" id="gi" name="gi" value="" required><br><br>
+        
+        <label for="os">OS:</label>
+        <input type="text" id="os" name="os" value="1054e50b-808a-491d-9b5e-29cff6f31c53" required><br><br>
+        
+        <label for="otk">OTK:</label>
+        <input type="text" id="otk" name="otk" value="D136B743-BC41-45CA-A20C-A6BCDDB4584E" required><br><br>
+        
+        <button type="submit">Verificar Sessão</button>
+    </form>
+</body>
+</html>

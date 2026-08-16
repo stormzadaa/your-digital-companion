@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Beautifier</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin-bottom: 20px;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+        .buttons {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>HTML Beautifier</h1>
+
+    <div class="buttons">
+        <input type="file" id="fileInput" accept=".html">
+        <button onclick="loadFile()">Importar HTML</button>
+        <button onclick="beautify()">Desminificar</button>
+        <button onclick="exportFile()">Exportar HTML</button>
+    </div>
+
+    <textarea id="input" placeholder="Cole seu código HTML minificado aqui..."></textarea>
+    <h2>Código Desminificado:</h2>
+    <pre id="output"></pre>
+
+    <script src="https://cdn.jsdelivr.net/npm/js-beautify@1.14.0/js/lib/beautify-html.js"></script>
+    <script>
+        let originalFileName = '';
+
+        function loadFile() {
+            const fileInput = document.getElementById('fileInput');
+            const reader = new FileReader();
+
+            reader.onload = function(event) {
+                document.getElementById('input').value = event.target.result;
+                originalFileName = fileInput.files[0].name.split('.').slice(0, -1).join('.'); // Obtém o nome do arquivo sem a extensão
+            };
+
+            if (fileInput.files.length > 0) {
+                reader.readAsText(fileInput.files[0]);
+            } else {
+                alert("Nenhum arquivo selecionado!");
+            }
+        }
+
+        function beautify() {
+            const input = document.getElementById('input').value;
+            const output = html_beautify(input); // Utiliza html_beautify ao invés de js_beautify
+            document.getElementById('output').innerText = output;
+        }
+
+        function exportFile() {
+            const output = document.getElementById('output').innerText;
+            const blob = new Blob([output], { type: 'text/html' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `${originalFileName}-des.html`; // Nome do arquivo original com o sufixo "-des"
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>

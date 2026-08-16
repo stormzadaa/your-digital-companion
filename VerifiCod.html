@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificação de Codificação</title>
+</head>
+<body>
+    <h1>Verificação de Codificação</h1>
+    
+    <h2>Parâmetro 'os'</h2>
+    <label for="os_input">Valor de 'os':</label>
+    <input type="text" id="os_input" value="">
+    <p id="os_base64"></p>
+    <p id="os_hex"></p>
+    
+    <h2>Parâmetro 'otk'</h2>
+    <label for="otk_input">Valor de 'otk':</label>
+    <input type="text" id="otk_input" value="">
+    <p id="otk_base64"></p>
+    <p id="otk_hex"></p>
+
+    <button onclick="checkEncoding()">Verificar Codificação</button>
+
+    <script>
+        function isBase64(str) {
+            try {
+                return btoa(atob(str)) === str;
+            } catch (err) {
+                return false;
+            }
+        }
+
+        function isHex(str) {
+            return /^[0-9A-Fa-f]+$/.test(str);
+        }
+
+        function checkEncoding() {
+            const os_value = document.getElementById('os_input').value;
+            const otk_value = document.getElementById('otk_input').value;
+
+            const is_os_base64 = isBase64(os_value);
+            const is_otk_base64 = isBase64(otk_value);
+            const is_os_hex = isHex(os_value);
+            const is_otk_hex = isHex(otk_value);
+
+            document.getElementById('os_base64').innerText = `É base64? ${is_os_base64}`;
+            document.getElementById('os_hex').innerText = `É hexadecimal? ${is_os_hex}`;
+            document.getElementById('otk_base64').innerText = `É base64? ${is_otk_base64}`;
+            document.getElementById('otk_hex').innerText = `É hexadecimal? ${is_otk_hex}`;
+        }
+    </script>
+</body>
+</html>

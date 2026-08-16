@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>m.segt.com</title>
+  <link rel="stylesheet" href="css/dupla.min.css">
+  <link rel="stylesheet" href="css/novidade.css">
+  <link rel="preload" href="https://rtplive.ai/game-providers/pgsoft/" as="document">
+  <link rel="preload" href="https://www.pragmaticplay.ppg.br/" as="document">
+</head>
+<body>
+  <div class="sidebar">
+    <table>
+      <tr>
+        <th>Horários</th>
+        <th>Horários</th>
+      </tr>
+      <tr>
+        <td>00:01</td>
+        <td>00:00</td>
+      </tr>
+      <tr>
+        <td>00:13</td>
+        <td>00:12</td>
+      </tr>
+      <tr>
+        <td>00:25</td>
+        <td>00:24</td>
+      </tr>
+      <tr>
+        <td>00:37</td>
+        <td>00:36</td>
+      </tr>
+      <tr>
+        <td>00:49</td>
+        <td>00:48</td>
+      </tr>
+      <tr>
+        <td>01:01</td>
+        <td>01:00</td>
+      </tr>
+      <tr>
+        <td>01:13</td>
+        <td>01:12</td>
+      </tr>
+      <tr>
+        <td>01:25</td>
+        <td>01:24</td>
+      </tr>
+      <tr>
+        <td>01:37</td>
+        <td>01:36</td>
+      </tr>
+      <tr>
+        <td>01:49</td>
+        <td>01:48</td>
+      </tr>
+      <tr>
+        <td>02:01</td>
+        <td>02:00</td>
+      </tr>
+      <tr>
+        <td>02:13</td>
+        <td>02:12</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="main-content">
+    <button id="sidebarToggleBtn" onclick="toggleSidebar()">☰</button>
+    <label for="menu"></label>
+    <select id="menu" class="editablePart">
+      <option value="1368367">Alchemy Gold</option>
+      <option value="1623475">Anubis Wrath</option>
+      <option value="1340277">Asgardian Rising</option>
+      <option value="31">Baccarat Deluxe</option>
+      <option value="1418544">Bakery Bonanza</option>
+      <option value="94">Bali Vacation</option>
+      <option value="124">Battleground Royale</option>
+      <option value="69">Bikini Paradise</option>
+      <option value="108">Buffalo Win</option>
+      <option value="125">Butterfly Blossom</option>
+    </select>
+
+    <label for="editablePart2"></label>
+    <select id="editablePart2" class="editablePart">    
+      <option value="pt-Br">Pt-BR</option>
+      <option value="pt-br">Portu Brasil</option>
+      <option value="pt-pt">Português</option>
+      <option value="es-ar">Argentina</option>
+    </select>
+    <button id="loadButton">Rum</button>
+  
+    <p id="horario-atual"></p>
+
+    <p id="editablePart3" class="editablePart" contenteditable="true"></p>
+
+    <iframe name="myFrame" id="myFrame" src="about:blank" loading="lazy" allow="encrypted-media" width="100%" height="560" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+
+    <div class="iframe-container" id="iframeContainer1">
+      <div class="header">
+        <button onclick="minimizeIframe('iframeContainer1')">__</button>
+        <button onclick="maximizeIframe('iframeContainer1')">[__]</button>
+        <button onclick="reloadIframe('innerIframe1')">Recarregar</button>
+      </div>
+      <iframe id="innerIframe1" src="https://www.pragmaticplay.ppg.br/" loading="lazy"></iframe>
+    </div>
+
+    <div class="iframe-container" id="iframeContainer2" style="left: 10px; right: auto;">
+      <div class="header">
+        <button onclick="minimizeIframe('iframeContainer2')">__</button>
+        <button onclick="maximizeIframe('iframeContainer2')">[__]</button>
+        <button onclick="reloadIframe('innerIframe2')">Recarregar</button>
+      </div>
+      <iframe id="innerIframe2" src="https://444paga.com/#/home" loading="lazy"></iframe>
+    </div>
+  </div>
+
+  <script src="js/duplablock.js" defer></script>
+  <script src="js/novidade.js" defer></script>
+</body>
+</html>

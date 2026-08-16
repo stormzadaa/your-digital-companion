@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Lobby Free</title>
+  <style>
+    body {
+      font-family: "Exo 2", "Open Sans", sans-serif;
+      line-height: 1.4;
+      background-color: #000;
+      font-weight: bolder;
+      color: #fff; /* Cor da fonte do corpo do texto */
+    }
+
+    .editablePart, .menuInput {
+      padding: 0;
+      margin: 0;
+      font-size: 20px;
+      color: #fff; /* Cor da fonte dos elementos editáveis */
+      border: 2px solid transparent;
+      background-color: transparent;
+      border-radius: 0;
+      cursor: pointer;
+      width: 200px;
+      height: 25px;
+    }
+
+    .editablePart:hover, .menuInput:hover {
+      background-color: transparent;
+    }
+
+    #loadButton {
+      background-color: transparent;
+      border: 0;
+      color: #fff; /* Cor da fonte do botão */
+      border-radius: 1px;
+      cursor: pointer;
+      padding: 5px 10px;
+      margin: 10px 0;
+      font-size: 14px;
+      display: inline-block;
+    }
+
+    #loadButton:hover {
+      background-color: transparent;
+      color: #000; /* Cor da fonte do botão ao passar o mouse */
+    }
+
+    #horario-atual {
+      font-family: 'mono', sans-serif, Arial Black, Gadget;
+      font-size: 12px;
+      font-weight: bold;
+      color: #fff; /* Cor da fonte do horário atual */
+      background-color: transparent;
+      padding: 5px;
+      border-radius: 5px;
+      display: block;
+      margin-top: 5px;
+      text-align: center;
+      position: absolute;
+      width: 15%;
+      right: 38px;
+      top: 75px;
+      -webkit-text-fill-color: white;
+      -webkit-text-stroke: 0.6px black;
+    }
+
+    /* Estilo para o botão "Home" */
+    #homeButton {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      cursor: pointer;
+      margin: 10px;
+      font-size: 12px;
+      border-radius: 5px;
+    }
+
+    #homeButton:hover {
+      background-color: #555;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Botão Home -->
+  <button onclick="window.location.href='https://linosbet.vercel.app/inicio.html';" id="homeButton">Home</button>
+
+  <label for="editablePart">Idioma:</label>
+  <select id="editablePart" class="editablePart">
+    <option value="pt-BR">Pt-BR</option>
+    <option value="pt-PT">Português</option>
+    <option value="es">Espanhol</option>
+    <option value="en-US">Us</option>
+    <option value="id-ID">Indonésio</option>
+    <option value="fr-CA">Francês</option>
+    <option value="es-EN">En</option>
+    <option value="ru">Russo</option>
+    <option value="ar">Árabe</option>
+    <option value="zh-CN">Chinês Sim</option>
+    <option value="zh-TW">Chinês Trad</option>
+    <option value="de-GE">Alemão</option>
+    <option value="it">Italiano</option>
+    <option value="ja-JV">Japonês</option>
+    <option value="ko">Coreano</option>
+    <option value="th">Tailandês</option>
+  </select>
+
+  <button id="loadButton">Rum</button>
+
+  <p id="horario-atual"></p>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const loadButton = document.getElementById("loadButton");
+      const myFrame = document.getElementById("myFrame");
+      const editablePart = document.getElementById("editablePart");
+
+      loadButton.addEventListener('click', loadUrl);
+
+      function loadUrl() {
+        var part = editablePart.value;
+
+        if (part.trim() === '') {
+          alert('Por favor, insira todas as partes editáveis.');
+          return;
+        }
+
+        var newUrl = "https://public.eajzzxhro.com/web-lobby/?operator_token=ca7094186b309ee149c55c8822e7ecf2&gs_session=05C7730B-2FC1-434E-B935-A635074732C3&l=" + encodeURIComponent(part) + "&__refer=m.pg-redirect.net&or=static.pgsoft-games.com&__hv=1fbc8c6d";
+        myFrame.src = newUrl;
+      }
+
+      function mostrarHorarioAtual() {
+        var data = new Date();
+        var options = {
+          timeZone: "America/Sao_Paulo",
+          hour: "2-digit",
+          minute: "2-digit",
+          second: "2-digit",
+            fractionalSecondDigits: 3
+        };
+        var horarioAtual = new Intl.DateTimeFormat("pt-BR", options).format(data);
+        document.getElementById("horario-atual").innerHTML = horarioAtual;
+      }
+
+      mostrarHorarioAtual();
+      setInterval(mostrarHorarioAtual, 1000);
+    });
+  </script>
+
+  <iframe name="myFrame" id="myFrame" src="about:blank" allow="encrypted-media" width="100%" height="560" scrolling="true" frameborder="no" allowfullscreen="true"></iframe>
+</body>
+
+</html>
+

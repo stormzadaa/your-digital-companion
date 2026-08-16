@@ -1,0 +1,5635 @@
+{
+  "Game": [
+    {
+      "Code": "vs20silvergate",
+      "EnglishName": "Gate of PPX",
+      "ChineseName": "Gate of PPX",
+      "IndonesiaName": "Gate of PPX",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20silvergate.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vsprgwayshousel",
+      "EnglishName": "House of Lions Megaways",
+      "ChineseName": "House of Lions Megaways",
+      "IndonesiaName": "House of Lions Megaways",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vsprgwayshousel.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs15fghtmultlv",
+      "EnglishName": "Angel vs Sinner",
+      "ChineseName": "Angel vs Sinner",
+      "IndonesiaName": "Angel vs Sinner",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://oss.justoss.com/game402/game/vs15fghtmultlv.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10fonzofff",
+      "EnglishName": "Fonzo's Feline Fortunes",
+      "ChineseName": "Fonzo's Feline Fortunes",
+      "IndonesiaName": "Fonzo's Feline Fortunes",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://dtuo9aqad2xp7.cloudfront.net/51231/fonzos-feline-fortunes.webp",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vsprgwaysldance",
+      "EnglishName": "Lions Dance Megaways",
+      "ChineseName": "Lions Dance Megaways",
+      "IndonesiaName": "Lions Dance Megaways",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vsprgwaysldance.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vsprg20koibnz",
+      "EnglishName": "Koi Bonanza",
+      "ChineseName": "Koi Bonanza",
+      "IndonesiaName": "Koi Bonanza",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vsprg20koibnz.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vsprg20gems",
+      "EnglishName": "Caishen’s Gems",
+      "ChineseName": "Caishen’s Gems",
+      "IndonesiaName": "Caishen’s Gems",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vsprg20gems.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vsprg20gatedr",
+      "EnglishName": "Gates of Dragon",
+      "ChineseName": "Gates of Dragon",
+      "IndonesiaName": "Gates of Dragon",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vsprg20gatedr.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5hotbmult",
+      "EnglishName": "Hot to Burn Multiplier",
+      "ChineseName": "热火燃烧暴增",
+      "IndonesiaName": "Hot to Burn Multiplier",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs5hotbmult.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs12scode",
+      "EnglishName": "Samurai Code",
+      "ChineseName": "武士密码",
+      "IndonesiaName": "Samurai Code",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs12scode.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20crankit",
+      "EnglishName": "Crank it Up",
+      "ChineseName": "全面启动",
+      "IndonesiaName": "Crank it Up",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20crankit.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20clustcol",
+      "EnglishName": "Sweet Kingdom",
+      "ChineseName": "甜心王国",
+      "IndonesiaName": "Sweet Kingdom",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20clustcol.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20midas2",
+      "EnglishName": "Hand of Midas 2",
+      "ChineseName": "迈达斯之手 2",
+      "IndonesiaName": "Hand of Midas 2",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20midas2.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysbkingasc",
+      "EnglishName": "Buffalo King Untamed Megaways",
+      "ChineseName": "王者野牛奔放Megaways",
+      "IndonesiaName": "Buffalo King Untamed Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysbkingasc.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10bbfmission",
+      "EnglishName": "Big Bass Mission Fishin",
+      "ChineseName": "疯狂大鲈鱼垂钓任务",
+      "IndonesiaName": "Big Bass Mission Fishin",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bbfmission.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20medusast",
+      "EnglishName": "Medusa’s Stone",
+      "ChineseName": "美杜莎之石",
+      "IndonesiaName": "Medusa’s Stone",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20medusast.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10bbbrlact",
+      "EnglishName": "Big Bass Bonanza",
+      "ChineseName": "疯狂大鲈鱼 - 即刻出动",
+      "IndonesiaName": "Big Bass Bonanza",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bbbrlact.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20devilic",
+      "EnglishName": "Devilicious",
+      "ChineseName": "超级恶魔",
+      "IndonesiaName": "Devilicious",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20devilic.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25wildies",
+      "EnglishName": "Wildies",
+      "ChineseName": "甜蜜派对",
+      "IndonesiaName": "Wildies",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs25wildies.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20fruitswx",
+      "EnglishName": "Sweet Bonanza 1000",
+      "ChineseName": "甜入心扉 1000",
+      "IndonesiaName": "Sweet Bonanza 1000",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20fruitswx.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20olympx",
+      "EnglishName": "Gates of Olympus 1000™",
+      "ChineseName": "奥林匹斯之门 1000™",
+      "IndonesiaName": "Gates of Olympus 1000™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20olympx.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20olympgate",
+      "EnglishName": "Gates of Olympus™",
+      "ChineseName": "奥林巴斯之门™",
+      "IndonesiaName": "Gates of Olympus™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20olympgate.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20starlight",
+      "EnglishName": "Starlight Princess™",
+      "ChineseName": "星光公主",
+      "IndonesiaName": "Starlight Princess™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20starlight.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20sugarrush",
+      "EnglishName": "Sugar Rush ™",
+      "ChineseName": "极速糖果™",
+      "IndonesiaName": "Sugar Rush ™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sugarrush.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20sugarrushx",
+      "EnglishName": "Sugar Rush 1000",
+      "ChineseName": "极速糖果1000",
+      "IndonesiaName": "Sugar Rush 1000",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sugarrushx.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20doghouse2",
+      "EnglishName": "The Dog House – Dog or Alive",
+      "ChineseName": "汪汪之家狗狗神气",
+      "IndonesiaName": "The Dog House – Dog or Alive",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20doghouse2.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vswaysbufking",
+      "EnglishName": "Buffalo King Megaways™",
+      "ChineseName": "王者野牛Megaways™",
+      "IndonesiaName": "Buffalo King Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysbufking.png",
+      "ImagePath": null,
+      "RTP": 95.55
+    },
+    {
+      "Code": "vs20fruitsw",
+      "EnglishName": "Sweet Bonanza",
+      "ChineseName": "Sweet Bonanza",
+      "IndonesiaName": "Sweet Bonanza",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20fruitsw.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20starlightx",
+      "EnglishName": "Starlight Princess 1000",
+      "ChineseName": "星光公主 1000",
+      "IndonesiaName": "Starlight Princess 1000",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20starlightx.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysrhino",
+      "EnglishName": "Great Rhino Megaways",
+      "ChineseName": "巨大犀牛Megaway",
+      "IndonesiaName": "Great Rhino Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysrhino.png",
+      "ImagePath": null,
+      "RTP": 96.58
+    },
+    {
+      "Code": "vswayslions",
+      "EnglishName": "5 Lions Megaways",
+      "ChineseName": "5金狮 Megaways",
+      "IndonesiaName": "5 Lions Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vswayslions.png",
+      "ImagePath": null,
+      "RTP": 95.52
+    },
+    {
+      "Code": "vs40wildwest",
+      "EnglishName": "Wild West Gold",
+      "ChineseName": "西部牛仔黄金地段",
+      "IndonesiaName": "Wild West Gold",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs40wildwest.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs20sbxmas",
+      "EnglishName": "Sweet Bonanza Xmas",
+      "ChineseName": "甜心盛宴圣诞",
+      "IndonesiaName": "Sweet Bonanza Xmas",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sbxmas.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs243fortune",
+      "EnglishName": "Caishen's Gold",
+      "ChineseName": "财神金子",
+      "IndonesiaName": "Caishen's Gold",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs243fortune.png",
+      "ImagePath": null,
+      "RTP": 97.08
+    },
+    {
+      "Code": "vs20gatotgates",
+      "EnglishName": "Gates of Gatot Kaca",
+      "ChineseName": "印尼傳奇迦多鐸卡",
+      "IndonesiaName": "Gates of Gatot Kaca",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20gatotgates.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20pbonanza",
+      "EnglishName": "Pyramid Bonanza™",
+      "ChineseName": "疯狂金字塔",
+      "IndonesiaName": "Pyramid Bonanza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20pbonanza.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs243lions",
+      "EnglishName": "5 Lions",
+      "ChineseName": "5 Lions",
+      "IndonesiaName": "5 Lions",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs243lions.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20sugrux",
+      "EnglishName": "Sugar Rush Xmas™",
+      "ChineseName": "多汁水果多方位持控™",
+      "IndonesiaName": "Sugar Rush Xmas™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sugrux.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20muertos",
+      "EnglishName": "Muertos Multiplier Megaways™",
+      "ChineseName": "墨西哥亡灵节™",
+      "IndonesiaName": "Muertos Multiplier Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs20muertos.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vs12bbb",
+      "EnglishName": "Bigger Bass Bonanza™",
+      "ChineseName": "超疯狂大鲈鱼",
+      "IndonesiaName": "Bigger Bass Bonanza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "HOT"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs12bbb.png",
+      "ImagePath": null,
+      "RTP": 96.71
+    },
+    {
+      "Code": "vswaysloki",
+      "EnglishName": "Revenge of Loki Megaways",
+      "ChineseName": "洛基复仇",
+      "IndonesiaName": "Revenge of Loki Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysloki.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysjapan",
+      "EnglishName": "Starlight Princess Pachi",
+      "ChineseName": "星光公主帕奇",
+      "IndonesiaName": "Starlight Princess Pachi",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysjapan.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20fortbon",
+      "EnglishName": "Fruity Treats",
+      "ChineseName": "水果盛宴",
+      "IndonesiaName": "Fruity Treats",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20fortbon.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswayshexhaus",
+      "EnglishName": "Rise of Pyramids",
+      "ChineseName": "金字塔崛起",
+      "IndonesiaName": "Rise of Pyramids",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayshexhaus.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysspltsym",
+      "EnglishName": "Dwarf & Dragon",
+      "ChineseName": "矮人和龙",
+      "IndonesiaName": "Dwarf & Dragon",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysspltsym.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10frontrun",
+      "EnglishName": "Front Runner Odds On",
+      "ChineseName": "领跑者加油",
+      "IndonesiaName": "Front Runner Odds On",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10frontrun.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20heartcleo",
+      "EnglishName": "Heart of Cleopatra",
+      "ChineseName": "埃及艳后之心",
+      "IndonesiaName": "Heart of Cleopatra",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20heartcleo.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20shootstars",
+      "EnglishName": "Heroic Spin",
+      "ChineseName": "英雄旋转",
+      "IndonesiaName": "Heroic Spin",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20shootstars.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20lobseafd",
+      "EnglishName": "Lobster’s Bob Sea Food and Win It",
+      "ChineseName": "鲍勃龙虾海鲜大餐",
+      "IndonesiaName": "Lobster’s Bob Sea Food and Win It",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20lobseafd.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5jjwild",
+      "EnglishName": "Joker’s Jewels Wild",
+      "ChineseName": "百搭小丑珠宝",
+      "IndonesiaName": "Joker’s Jewels Wild",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [
+        "NEW"
+      ],
+      "Image": "https://game.matrix138.com/img/ppx/vs5jjwild.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5aztecgems",
+      "EnglishName": "Aztec Gems",
+      "ChineseName": "Aztec Gems",
+      "IndonesiaName": "Aztec Gems",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5aztecgems.png",
+      "ImagePath": null,
+      "RTP": 96.52
+    },
+    {
+      "Code": "vs20bonzgold",
+      "EnglishName": "Bonanza Gold",
+      "ChineseName": "富矿黄金",
+      "IndonesiaName": "Bonanza Gold",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20bonzgold.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20procount",
+      "EnglishName": "Wisdom of Athena™",
+      "ChineseName": "雅典娜的智慧™",
+      "IndonesiaName": "Wisdom of Athena™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20procount.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs20schristmas",
+      "EnglishName": "Starlight Christmas",
+      "ChineseName": "星光圣诞系列",
+      "IndonesiaName": "Starlight Christmas",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20schristmas.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20candvil",
+      "EnglishName": "CANDY VILLAGE™",
+      "ChineseName": "糖果部落™",
+      "IndonesiaName": "CANDY VILLAGE™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20candvil.png",
+      "ImagePath": null,
+      "RTP": 95.45
+    },
+    {
+      "Code": "vs20aztecgates",
+      "EnglishName": "Gates of Aztec™",
+      "ChineseName": "阿茲特克之门™",
+      "IndonesiaName": "Gates of Aztec™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20aztecgates.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5joker",
+      "EnglishName": "Joker's Jewels",
+      "ChineseName": "Joker's Jewels",
+      "IndonesiaName": "Joker's Jewels",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5joker.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20porbs",
+      "EnglishName": "Santa's Great Gifts™",
+      "ChineseName": "圣诞惊喜礼物™",
+      "IndonesiaName": "Santa's Great Gifts™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20porbs.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs15godsofwar",
+      "EnglishName": "Zeus vs Hades - Gods of War™",
+      "ChineseName": "宙斯vs哈迪斯 - 众神之战™",
+      "IndonesiaName": "Zeus vs Hades - Gods of War™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs15godsofwar.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs10bblotgl",
+      "EnglishName": "Big Bass Secrets of the Golden",
+      "ChineseName": "疯狂大鲈鱼 黄金湖的秘密",
+      "IndonesiaName": "Big Bass Secrets of the Golden",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bblotgl.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs40stckwldlvl",
+      "EnglishName": "Ripe Rewards",
+      "ChineseName": "甜蜜奖赏",
+      "IndonesiaName": "Ripe Rewards",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40stckwldlvl.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20sbpnudge",
+      "EnglishName": "Aztec Powernudge",
+      "ChineseName": "阿兹特克",
+      "IndonesiaName": "Aztec Powernudge",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sbpnudge.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20bison",
+      "EnglishName": "Release the Bison",
+      "ChineseName": "释放野牛",
+      "IndonesiaName": "Release the Bison",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20bison.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs10bburger",
+      "EnglishName": "Big Burger Load it up with Xtra Cheese",
+      "ChineseName": "汉堡巨无霸",
+      "IndonesiaName": "Big Burger Load it up with Xtra Cheese",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bburger.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20cbrhst",
+      "EnglishName": "Cyber Heist",
+      "ChineseName": "网络大劫案",
+      "IndonesiaName": "Cyber Heist",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20cbrhst.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20portals",
+      "EnglishName": "Fire Portals",
+      "ChineseName": "火焰之界",
+      "IndonesiaName": "Fire Portals",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20portals.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs15samurai4",
+      "EnglishName": "Rise of Samurai 4",
+      "ChineseName": "崛起的武士4",
+      "IndonesiaName": "Rise of Samurai 4",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs15samurai4.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20stckwldsc",
+      "EnglishName": "Pot of Fortune",
+      "ChineseName": "幸运之壶",
+      "IndonesiaName": "Pot of Fortune",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20stckwldsc.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vswaysbewaretd",
+      "EnglishName": "Beware The Deep Megaways",
+      "ChineseName": "小心深海Megaways",
+      "IndonesiaName": "Beware The Deep Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysbewaretd.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs10bbbnz",
+      "EnglishName": "Big Bass Day at the Races",
+      "ChineseName": "疯狂大鲈鱼竞赛",
+      "IndonesiaName": "Big Bass Day at the Races",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bbbnz.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20gatotx",
+      "EnglishName": "Gates of Gatot Kaca 1000",
+      "ChineseName": "印尼传奇迦多铎卡1000",
+      "IndonesiaName": "Gates of Gatot Kaca 1000",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20gatotx.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20clustext",
+      "EnglishName": "Gears of Horus",
+      "ChineseName": "荷鲁斯的齿轮",
+      "IndonesiaName": "Gears of Horus",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20clustext.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vswayscheist",
+      "EnglishName": "Casino Heist Megaways",
+      "ChineseName": "娱乐场大劫案Megaways",
+      "IndonesiaName": "Casino Heist Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayscheist.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs15seoultrain",
+      "EnglishName": "Train to Seoul",
+      "ChineseName": "首尔列车",
+      "IndonesiaName": "Train to Seoul",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs15seoultrain.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20olympdice",
+      "EnglishName": "Gates of Olympus Dice",
+      "ChineseName": "奥林匹斯之门骰子",
+      "IndonesiaName": "Gates of Olympus Dice",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20olympdice.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20ninjapower",
+      "EnglishName": "Power of Ninja",
+      "ChineseName": "武力忍者",
+      "IndonesiaName": "Power of Ninja",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20ninjapower.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20mmmelon",
+      "EnglishName": "Mighty Munching Melons",
+      "ChineseName": "大啖甜瓜",
+      "IndonesiaName": "Mighty Munching Melons",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mmmelon.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs25lagoon",
+      "EnglishName": "Great Lagoon",
+      "ChineseName": "大泻湖",
+      "IndonesiaName": "Great Lagoon",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25lagoon.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs5balidragon",
+      "EnglishName": "Bali Dragon",
+      "ChineseName": "巴厘之龙",
+      "IndonesiaName": "Bali Dragon",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5balidragon.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs10bbfloats",
+      "EnglishName": "Big Bass Floats My Boat",
+      "ChineseName": "疯狂大鲈鱼摇摇船",
+      "IndonesiaName": "Big Bass Floats My Boat",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bbfloats.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vswaysalterego",
+      "EnglishName": "The Alter Ego",
+      "ChineseName": "双面特务",
+      "IndonesiaName": "The Alter Ego",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysalterego.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20gravity",
+      "EnglishName": "Gravity Bonanza™",
+      "ChineseName": "重力鸿运™",
+      "IndonesiaName": "Gravity Bonanza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20gravity.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20mergedwndw",
+      "EnglishName": "Blade & Fangs",
+      "ChineseName": "刀光&獠牙",
+      "IndonesiaName": "Blade & Fangs",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mergedwndw.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20loksriches",
+      "EnglishName": "Loki’s Riches",
+      "ChineseName": "洛基财富",
+      "IndonesiaName": "Loki’s Riches",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20loksriches.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs1024mjwinbns",
+      "EnglishName": "Mahjong Wins Bonus",
+      "ChineseName": "麻将大胜",
+      "IndonesiaName": "Mahjong Wins Bonus",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1024mjwinbns.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20bigdawgs",
+      "EnglishName": "The Big Dawgs",
+      "ChineseName": "大人物",
+      "IndonesiaName": "The Big Dawgs",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20bigdawgs.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs243fdragon",
+      "EnglishName": "Fortune Dragon",
+      "ChineseName": "神龙运财",
+      "IndonesiaName": "Fortune Dragon",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243fdragon.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vswaysexpandng",
+      "EnglishName": "Castle of Fire",
+      "ChineseName": "烈火城堡",
+      "IndonesiaName": "Castle of Fire",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysexpandng.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs10luckfort",
+      "EnglishName": "Good Luck & Good Fortune",
+      "ChineseName": "鸿运当头",
+      "IndonesiaName": "Good Luck & Good Fortune",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10luckfort.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20laughluck",
+      "EnglishName": "Happy Fortune",
+      "ChineseName": "笑口迎财",
+      "IndonesiaName": "Happy Fortune",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20laughluck.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vs20yotdk",
+      "EnglishName": "Year of the Dragon King",
+      "ChineseName": "龙王之年",
+      "IndonesiaName": "Year of the Dragon King",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20yotdk.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vswayswildgang",
+      "EnglishName": "The Wild Gang™",
+      "ChineseName": "野蛮帮派™",
+      "IndonesiaName": "The Wild Gang™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayswildgang.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysfltdrgny",
+      "EnglishName": "Floating Dragon New Year Festival Ultra Megaways™ Hold & Spin",
+      "ChineseName": "鱼跃龙门贺新年Ultra Megaways™持控旋转",
+      "IndonesiaName": "Floating Dragon New Year Festival Ultra Megaways™ Hold & Spin",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysfltdrgny.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs50jfmulthold",
+      "EnglishName": "Juicy Fruits Multihold™",
+      "ChineseName": "多汁水果多方位持控™",
+      "IndonesiaName": "Juicy Fruits Multihold™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50jfmulthold.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs50jfmulthold",
+      "EnglishName": "Juicy Fruits Multihold™",
+      "ChineseName": "多汁水果多方位持控™",
+      "IndonesiaName": "Juicy Fruits Multihold™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50jfmulthold.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20dhdice",
+      "EnglishName": "The Dog House Dice Show™",
+      "ChineseName": "汪汪之家骰子秀™",
+      "IndonesiaName": "The Dog House Dice Show™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20dhdice.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10ddcbells",
+      "EnglishName": "Ding Dong Christmas Bells™",
+      "ChineseName": "圣诞响叮当™",
+      "IndonesiaName": "Ding Dong Christmas Bells™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10ddcbells.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswayscharms",
+      "EnglishName": "5 Frozen Charms Megaways™",
+      "ChineseName": "5冰冻魅力Megaways™",
+      "IndonesiaName": "5 Frozen Charms Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayscharms.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20cjcluster",
+      "EnglishName": "Candy Jar Clusters™",
+      "ChineseName": "糖果罐派对™",
+      "IndonesiaName": "Candy Jar Clusters™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20cjcluster.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysstampede",
+      "EnglishName": "Fire Stampede™",
+      "ChineseName": "热火暴走™",
+      "IndonesiaName": "Fire Stampede™",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysstampede.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysseastory",
+      "EnglishName": "Sea Fantasy™",
+      "ChineseName": "海洋幻想™",
+      "IndonesiaName": "Sea Fantasy™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysseastory.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20mahjxbnz",
+      "EnglishName": "Mahjong X™",
+      "ChineseName": "麻将X™",
+      "IndonesiaName": "Mahjong X™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mahjxbnz.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10bbsplxmas",
+      "EnglishName": "Big Bass Christmas Bash™",
+      "ChineseName": "疯狂大鲈鱼圣诞节™",
+      "IndonesiaName": "Big Bass Christmas Bash™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bbsplxmas.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20nilefort",
+      "EnglishName": "Nile Fortunes™",
+      "ChineseName": "尼罗河财富™",
+      "IndonesiaName": "Nile Fortunes™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20nilefort.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20rujakbnz",
+      "EnglishName": "Rujak Bonanza™",
+      "ChineseName": "水果沙拉盛宴™",
+      "IndonesiaName": "Rujak Bonanza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20rujakbnz.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20sugarcoins",
+      "EnglishName": "Viking Forge™",
+      "ChineseName": "维京锻造™",
+      "IndonesiaName": "Viking Forge™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sugarcoins.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20sugarnudge",
+      "EnglishName": "Sugar Supreme Powernudge™",
+      "ChineseName": "顶级糖果Powernudge™",
+      "IndonesiaName": "Sugar Supreme Powernudge™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sugarnudge.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswayshammthor",
+      "EnglishName": "Power of Thor Megaways™",
+      "ChineseName": "雷神之锤Megaways™",
+      "IndonesiaName": "Power of Thor Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayshammthor.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs9aztecgemsdx",
+      "EnglishName": "Aztec Gems Deluxe",
+      "ChineseName": "古时代宝石 加强版",
+      "IndonesiaName": "Aztec Gems Deluxe",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs9aztecgemsdx.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysmadame",
+      "EnglishName": "Madame Destiny Megaways",
+      "ChineseName": "命运巫女Megaways",
+      "IndonesiaName": "Madame Destiny Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysmadame.png",
+      "ImagePath": null,
+      "RTP": 96.56
+    },
+    {
+      "Code": "vs7776aztec",
+      "EnglishName": "Aztec Bonanza",
+      "ChineseName": "阿兹特克获利之道",
+      "IndonesiaName": "Aztec Bonanza",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs7776aztec.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs20mochimon",
+      "EnglishName": "Mochimon",
+      "ChineseName": "麻糬宝贝塔",
+      "IndonesiaName": "Mochimon",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mochimon.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysrabbits",
+      "EnglishName": "5 Rabbits Megaways™",
+      "ChineseName": "5金兔 Megaways™",
+      "IndonesiaName": "5 Rabbits Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysrabbits.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vswaysdogs",
+      "EnglishName": "The Dog House Megaways",
+      "ChineseName": "汪汪之家 多方位制胜",
+      "IndonesiaName": "The Dog House Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysdogs.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs10firestrike",
+      "EnglishName": "Fire Strike",
+      "ChineseName": "红火暴击",
+      "IndonesiaName": "Fire Strike",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10firestrike.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25scarabqueen",
+      "EnglishName": "John Hunter &amp; Scarab Queen",
+      "ChineseName": "John Hunter &amp; Scarab Queen",
+      "IndonesiaName": "John Hunter &amp; Scarab Queen",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25scarabqueen.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20goldclust",
+      "EnglishName": "Rabbit Garden™",
+      "ChineseName": "兔子乐园™",
+      "IndonesiaName": "Rabbit Garden™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20goldclust.png",
+      "ImagePath": null,
+      "RTP": 96.05
+    },
+    {
+      "Code": "vswayslight",
+      "EnglishName": "Lucky Lightning",
+      "ChineseName": "幸运雷神",
+      "IndonesiaName": "Lucky Lightning",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayslight.png",
+      "ImagePath": null,
+      "RTP": 95.51
+    },
+    {
+      "Code": "vs20fruitparty",
+      "EnglishName": "Fruit Party",
+      "ChineseName": "约水果派对",
+      "IndonesiaName": "Fruit Party",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20fruitparty.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20clustwild",
+      "EnglishName": "Sticky Bees™",
+      "ChineseName": "粘性蜜蜂™",
+      "IndonesiaName": "Sticky Bees™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20clustwild.png",
+      "ImagePath": null,
+      "RTP": 96.06
+    },
+    {
+      "Code": "vs1024mahjpanda",
+      "EnglishName": "Mahjong Panda™",
+      "ChineseName": "熊猫麻将™",
+      "IndonesiaName": "Mahjong Panda™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1024mahjpanda.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs20goldfever",
+      "EnglishName": "Gems Bonanza",
+      "ChineseName": "富矿宝石",
+      "IndonesiaName": "Gems Bonanza",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20goldfever.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs20swordofares",
+      "EnglishName": "Sword of Ares™",
+      "ChineseName": "希腊战神之剑™",
+      "IndonesiaName": "Sword of Ares™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20swordofares.png",
+      "ImagePath": null,
+      "RTP": 96.4
+    },
+    {
+      "Code": "vswaysxjuicy",
+      "EnglishName": "Extra Juicy Megaways™",
+      "ChineseName": "额外多汁Megaways™",
+      "IndonesiaName": "Extra Juicy Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysxjuicy.png",
+      "ImagePath": null,
+      "RTP": 96.42
+    },
+    {
+      "Code": "vswayswildwest",
+      "EnglishName": "Wild West Gold Megaways™",
+      "ChineseName": "西部牛仔黄金地段",
+      "IndonesiaName": "Wild West Gold Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayswildwest.png",
+      "ImagePath": null,
+      "RTP": 95.35
+    },
+    {
+      "Code": "vs20xmascarol",
+      "EnglishName": "Christmas Carol Megaways",
+      "ChineseName": "圣诞颂歌 Megaways",
+      "IndonesiaName": "Christmas Carol Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20xmascarol.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20pistols",
+      "EnglishName": "Wild West Duels™",
+      "ChineseName": "西部牛仔对决™",
+      "IndonesiaName": "Wild West Duels™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20pistols.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs20midas",
+      "EnglishName": "The Hand of Midas",
+      "ChineseName": "迈达斯之手",
+      "IndonesiaName": "The Hand of Midas",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20midas.png",
+      "ImagePath": null,
+      "RTP": 96.54
+    },
+    {
+      "Code": "vs20doghouse",
+      "EnglishName": "The Dog House",
+      "ChineseName": "汪汪之家",
+      "IndonesiaName": "The Dog House",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20doghouse.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs20jewelparty",
+      "EnglishName": "Jewel Rush™",
+      "ChineseName": "珍宝粉碎™",
+      "IndonesiaName": "Jewel Rush™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20jewelparty.png",
+      "ImagePath": null,
+      "RTP": 96.47
+    },
+    {
+      "Code": "vs243lionsgold",
+      "EnglishName": "5 Lions Gold",
+      "ChineseName": "5 Lions Gold",
+      "IndonesiaName": "5 Lions Gold",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243lionsgold.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10fdrasbf",
+      "EnglishName": "Floating Dragon - Dragon Boat Festival™",
+      "ChineseName": "鱼跃龙门 - 天空之船™",
+      "IndonesiaName": "Floating Dragon - Dragon Boat Festival™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10fdrasbf.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vswayssamurai",
+      "EnglishName": "Rise of Samurai Megaways",
+      "ChineseName": "崛起的武士",
+      "IndonesiaName": "Rise of Samurai Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayssamurai.png",
+      "ImagePath": null,
+      "RTP": 95.7
+    },
+    {
+      "Code": "vs20trsbox",
+      "EnglishName": "Treasure Wild™",
+      "ChineseName": "疯狂宝藏",
+      "IndonesiaName": "Treasure Wild™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20trsbox.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs20farmfest",
+      "EnglishName": "Barn Festival",
+      "ChineseName": "农场嘉年华",
+      "IndonesiaName": "Barn Festival",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20farmfest.png",
+      "ImagePath": null,
+      "RTP": 95.31
+    },
+    {
+      "Code": "vswayswwriches",
+      "EnglishName": "Wild Wild Riches Megaways",
+      "ChineseName": "爱尔兰人宝藏 Megaways",
+      "IndonesiaName": "Wild Wild Riches Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayswwriches.png",
+      "ImagePath": null,
+      "RTP": 96.02
+    },
+    {
+      "Code": "vs20gatotfury",
+      "EnglishName": "Gatot Kaca's Fury™",
+      "ChineseName": "迦多铎卡之怒™",
+      "IndonesiaName": "Gatot Kaca's Fury™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20gatotfury.png",
+      "ImagePath": null,
+      "RTP": 96.54
+    },
+    {
+      "Code": "vs20superlanche",
+      "EnglishName": "Monster Superlanche™",
+      "ChineseName": "怪物超人™",
+      "IndonesiaName": "Monster Superlanche™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20superlanche.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vs20mammoth",
+      "EnglishName": "Mammoth Gold Megaways™",
+      "ChineseName": "猛犸黄金 Megaways™",
+      "IndonesiaName": "Mammoth Gold Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mammoth.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vs15diamond",
+      "EnglishName": "Diamond Strike",
+      "ChineseName": "Diamond Strike",
+      "IndonesiaName": "Diamond Strike",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs15diamond.png",
+      "ImagePath": null,
+      "RTP": 96.96
+    },
+    {
+      "Code": "vs20stickywild",
+      "EnglishName": "Wild Bison Charge™",
+      "ChineseName": "野牛冲锋™",
+      "IndonesiaName": "Wild Bison Charge™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20stickywild.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vs20doghousemh",
+      "EnglishName": "The Dog House Multihold™",
+      "ChineseName": "汪汪之家多方位持控™",
+      "IndonesiaName": "The Dog House Multihold™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20doghousemh.png",
+      "ImagePath": null,
+      "RTP": 96.06
+    },
+    {
+      "Code": "vs20superx",
+      "EnglishName": "Super X ™",
+      "ChineseName": "超级X™",
+      "IndonesiaName": "Super X ™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20superx.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs10bbextreme",
+      "EnglishName": "Big Bass Amazon Xtreme™",
+      "ChineseName": "疯狂大鲈鱼亚马逊极",
+      "IndonesiaName": "Big Bass Amazon Xtreme™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bbextreme.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs7fire88",
+      "EnglishName": "Fire 88",
+      "ChineseName": "Fire 88",
+      "IndonesiaName": "Fire 88",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs7fire88.png",
+      "ImagePath": null,
+      "RTP": 96.45
+    },
+    {
+      "Code": "vs20tweethouse",
+      "EnglishName": "The Tweety House",
+      "ChineseName": "禽鸟之屋",
+      "IndonesiaName": "The Tweety House",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20tweethouse.png",
+      "ImagePath": null,
+      "RTP": 95.51
+    },
+    {
+      "Code": "vswaysaztecking",
+      "EnglishName": "Aztec King Megaways™",
+      "ChineseName": "阿茲特克国王",
+      "IndonesiaName": "Aztec King Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysaztecking.png",
+      "ImagePath": null,
+      "RTP": 96.58
+    },
+    {
+      "Code": "vs20hstgldngt",
+      "EnglishName": "Heist for the Golden Nuggets™",
+      "ChineseName": "金块大劫案™",
+      "IndonesiaName": "Heist for the Golden Nuggets™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20hstgldngt.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs20santawonder",
+      "EnglishName": "Santa's Wonderland™",
+      "ChineseName": "圣诞仙境",
+      "IndonesiaName": "Santa's Wonderland™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20santawonder.png",
+      "ImagePath": null,
+      "RTP": 96.23
+    },
+    {
+      "Code": "vs20fparty2",
+      "EnglishName": "Fruit Party 2",
+      "ChineseName": "水果派对 2",
+      "IndonesiaName": "Fruit Party 2",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20fparty2.png",
+      "ImagePath": null,
+      "RTP": 95.45
+    },
+    {
+      "Code": "vs20splmystery",
+      "EnglishName": "Spellbinding Mystery™",
+      "ChineseName": "魔法的奥秘™",
+      "IndonesiaName": "Spellbinding Mystery™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20splmystery.png",
+      "ImagePath": null,
+      "RTP": 96.04
+    },
+    {
+      "Code": "vs25mustang",
+      "EnglishName": "Mustang Gold",
+      "ChineseName": "Mustang Gold",
+      "IndonesiaName": "Mustang Gold",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25mustang.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vswaysyumyum",
+      "EnglishName": "Yum Yum Powerways™",
+      "ChineseName": "可口好吃 Powerways™",
+      "IndonesiaName": "Yum Yum Powerways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysyumyum.png",
+      "ImagePath": null,
+      "RTP": 96.43
+    },
+    {
+      "Code": "vswayspowzeus",
+      "EnglishName": "Power of Merlin Megaways™",
+      "ChineseName": "法力梅林",
+      "IndonesiaName": "Power of Merlin Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayspowzeus.png",
+      "ImagePath": null,
+      "RTP": 96.08
+    },
+    {
+      "Code": "vs10gizagods",
+      "EnglishName": "Gods of Giza™",
+      "ChineseName": "吉萨之神™",
+      "IndonesiaName": "Gods of Giza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10gizagods.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vswaysultrcoin",
+      "EnglishName": "Cowboy Coins™",
+      "ChineseName": "牛仔金币™",
+      "IndonesiaName": "Cowboy Coins™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysultrcoin.png",
+      "ImagePath": null,
+      "RTP": 96.08
+    },
+    {
+      "Code": "vs25jokrace",
+      "EnglishName": "Joker Race™",
+      "ChineseName": "小丑赛跑™",
+      "IndonesiaName": "Joker Race™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25jokrace.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25hotfiesta",
+      "EnglishName": "Hot Fiesta™",
+      "ChineseName": "狂热嘉年华™",
+      "IndonesiaName": "Hot Fiesta™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25hotfiesta.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysrockblst",
+      "EnglishName": "Rocket Blast Megaways™",
+      "ChineseName": "火箭弹爆破 Megaways™",
+      "IndonesiaName": "Rocket Blast Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysrockblst.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vs20clspwrndg",
+      "EnglishName": "Sweet Powernudge™",
+      "ChineseName": "甜品派对™",
+      "IndonesiaName": "Sweet Powernudge™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20clspwrndg.png",
+      "ImagePath": null,
+      "RTP": 96.08
+    },
+    {
+      "Code": "vs20wildparty",
+      "EnglishName": "3 Buzzing Wilds™",
+      "ChineseName": "喧闹虫虫™",
+      "IndonesiaName": "3 Buzzing Wilds™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20wildparty.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vswaysfuryodin",
+      "EnglishName": "Fury of Odin Megaways™",
+      "ChineseName": "奥丁之怒Megaways™",
+      "IndonesiaName": "Fury of Odin Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysfuryodin.png",
+      "ImagePath": null,
+      "RTP": 95.97
+    },
+    {
+      "Code": "vs10bxmasbnza",
+      "EnglishName": "Christmas Big Bass Bonanza™",
+      "ChineseName": "圣诞大鲈鱼™",
+      "IndonesiaName": "Christmas Big Bass Bonanza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bxmasbnza.png",
+      "ImagePath": null,
+      "RTP": 95.67
+    },
+    {
+      "Code": "vswayselements",
+      "EnglishName": "Elemental Gems Megaways",
+      "ChineseName": "五行宝石",
+      "IndonesiaName": "Elemental Gems Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayselements.png",
+      "ImagePath": null,
+      "RTP": 95.45
+    },
+    {
+      "Code": "vs20mustanggld2",
+      "EnglishName": "Clover Gold™",
+      "ChineseName": "黄金三叶草",
+      "IndonesiaName": "Clover Gold™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mustanggld2.png",
+      "ImagePath": null,
+      "RTP": 95.52
+    },
+    {
+      "Code": "vs10bbbonanza",
+      "EnglishName": "Big Bass Bonanza",
+      "ChineseName": "疯狂大鲈鱼",
+      "IndonesiaName": "Big Bass Bonanza",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bbbonanza.png",
+      "ImagePath": null,
+      "RTP": 96.71
+    },
+    {
+      "Code": "vs20cashmachine",
+      "EnglishName": "Cash Box™",
+      "ChineseName": "金库宝藏™",
+      "IndonesiaName": "Cash Box™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20cashmachine.png",
+      "ImagePath": null,
+      "RTP": 96.02
+    },
+    {
+      "Code": "vs10amm",
+      "EnglishName": "The Amazing Money Machine",
+      "ChineseName": "奇幻无比金钱取款机",
+      "IndonesiaName": "The Amazing Money Machine",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10amm.png",
+      "ImagePath": null,
+      "RTP": 96.42
+    },
+    {
+      "Code": "vs243nudge4gold",
+      "EnglishName": "Hellvis Wild™",
+      "ChineseName": "野蛮恶魔™",
+      "IndonesiaName": "Hellvis Wild™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243nudge4gold.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vs50jucier",
+      "EnglishName": "Kraken's Sky Bounty™",
+      "ChineseName": "海怪的高额赏金™",
+      "IndonesiaName": "Kraken's Sky Bounty™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50jucier.png",
+      "ImagePath": null,
+      "RTP": 96.05
+    },
+    {
+      "Code": "vs20rhinoluxe",
+      "EnglishName": "Great Rhino Deluxe",
+      "ChineseName": "巨大犀牛 加强版",
+      "IndonesiaName": "Great Rhino Deluxe",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20rhinoluxe.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vs20framazon",
+      "EnglishName": "Fruits of the Amazon™",
+      "ChineseName": "亚马逊果实™",
+      "IndonesiaName": "Fruits of the Amazon™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20framazon.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25rlbank",
+      "EnglishName": "Reel Banks™",
+      "ChineseName": "翻滚银行™",
+      "IndonesiaName": "Reel Banks™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25rlbank.png",
+      "ImagePath": null,
+      "RTP": 96.04
+    },
+    {
+      "Code": "vs50juicyfr",
+      "EnglishName": "Juicy Fruits™",
+      "ChineseName": "多汁水果™",
+      "IndonesiaName": "Juicy Fruits™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50juicyfr.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vswaysrsm",
+      "EnglishName": "Wild Celebrity Bus Megaways™",
+      "ChineseName": "狂野名人大巴 Megaways™",
+      "IndonesiaName": "Wild Celebrity Bus Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysrsm.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vs25goldparty",
+      "EnglishName": "Gold Party™",
+      "ChineseName": "黄金派对™",
+      "IndonesiaName": "Gold Party™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25goldparty.png",
+      "ImagePath": null,
+      "RTP": 95.48
+    },
+    {
+      "Code": "vs20drgbless",
+      "EnglishName": "Dragon Hero™",
+      "ChineseName": "神龙大侠™",
+      "IndonesiaName": "Dragon Hero™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20drgbless.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs20asgard",
+      "EnglishName": "Kingdom of Asgard™",
+      "ChineseName": "阿斯加德之王™",
+      "IndonesiaName": "Kingdom of Asgard™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20asgard.png",
+      "ImagePath": null,
+      "RTP": 96.54
+    },
+    {
+      "Code": "vs4096bufking",
+      "EnglishName": "Buffalo King",
+      "ChineseName": "王者野牛",
+      "IndonesiaName": "Buffalo King",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs4096bufking.png",
+      "ImagePath": null,
+      "RTP": 96.06
+    },
+    {
+      "Code": "vs243empcaishen",
+      "EnglishName": "Emperor Caishen™",
+      "ChineseName": "财神驾到™",
+      "IndonesiaName": "Emperor Caishen™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243empcaishen.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs20amuleteg",
+      "EnglishName": "Fortune of Giza™",
+      "ChineseName": "埃及财富™",
+      "IndonesiaName": "Fortune of Giza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20amuleteg.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs576treasures",
+      "EnglishName": "Wild Wild Riches",
+      "ChineseName": "爱尔兰人宝藏",
+      "IndonesiaName": "Wild Wild Riches",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs576treasures.png",
+      "ImagePath": null,
+      "RTP": 96.77
+    },
+    {
+      "Code": "vs20dugems",
+      "EnglishName": "Hot Pepper™",
+      "ChineseName": "辣椒狂热™",
+      "IndonesiaName": "Hot Pepper™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20dugems.png",
+      "ImagePath": null,
+      "RTP": 96.45
+    },
+    {
+      "Code": "vs10cowgold",
+      "EnglishName": "Cowboys Gold",
+      "ChineseName": "黄金叛变",
+      "IndonesiaName": "Cowboys Gold",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10cowgold.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20excalibur",
+      "EnglishName": "Excalibur Unleashed™",
+      "ChineseName": "圣剑出鞘™",
+      "IndonesiaName": "Excalibur Unleashed™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20excalibur.png",
+      "ImagePath": null,
+      "RTP": 96.05
+    },
+    {
+      "Code": "vs20phoenixf",
+      "EnglishName": "Phoenix Forge™",
+      "ChineseName": "霹雳凤凰",
+      "IndonesiaName": "Phoenix Forge™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20phoenixf.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vs20kraken2",
+      "EnglishName": "Release the Kraken 2™",
+      "ChineseName": "解放大海怪2™",
+      "IndonesiaName": "Release the Kraken 2™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20kraken2.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vs1money",
+      "EnglishName": "Money Money Money",
+      "ChineseName": "钱生钱",
+      "IndonesiaName": "Money Money Money",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1money.png",
+      "ImagePath": null,
+      "RTP": 97.09
+    },
+    {
+      "Code": "vs20forge",
+      "EnglishName": "Forge of Olympus™",
+      "ChineseName": "奥林匹斯锻造™",
+      "IndonesiaName": "Forge of Olympus™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20forge.png",
+      "ImagePath": null,
+      "RTP": 96.25
+    },
+    {
+      "Code": "vswaysmonkey",
+      "EnglishName": "3 Dancing Monkeys™",
+      "ChineseName": "3舞蹈猴子™",
+      "IndonesiaName": "3 Dancing Monkeys™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysmonkey.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs25chilli",
+      "EnglishName": "Chilli Heat",
+      "ChineseName": "Chilli Heat",
+      "IndonesiaName": "Chilli Heat",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25chilli.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20lampinf",
+      "EnglishName": "Lamp Of Infinity™",
+      "ChineseName": "无限神灯™",
+      "IndonesiaName": "Lamp Of Infinity™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20lampinf.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs25aztecking",
+      "EnglishName": "Aztec King",
+      "ChineseName": "阿茲特克国王",
+      "IndonesiaName": "Aztec King",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25aztecking.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vs10runes",
+      "EnglishName": "Gates of Valhalla ™",
+      "ChineseName": "瓦尔哈拉之门™",
+      "IndonesiaName": "Gates of Valhalla ™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10runes.png",
+      "ImagePath": null,
+      "RTP": 96.46
+    },
+    {
+      "Code": "vs25copsrobbers",
+      "EnglishName": "Cash Patrol™",
+      "ChineseName": "巡逻现警™",
+      "IndonesiaName": "Cash Patrol™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25copsrobbers.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswayslofhero",
+      "EnglishName": "Legend of Heroes Megaways (excluding Japan)™",
+      "ChineseName": "英雄联盟 Megaways™",
+      "IndonesiaName": "Legend of Heroes Megaways (excluding Japan)™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayslofhero.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs243fortseren",
+      "EnglishName": "Greek Gods",
+      "ChineseName": "希腊众神",
+      "IndonesiaName": "Greek Gods",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243fortseren.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10txbigbass",
+      "EnglishName": "Big Bass Splash",
+      "ChineseName": "大鲈鱼溅水",
+      "IndonesiaName": "Big Bass Splash",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10txbigbass.png",
+      "ImagePath": null,
+      "RTP": 96.71
+    },
+    {
+      "Code": "vs576hokkwolf",
+      "EnglishName": "Hokkaido Wolf",
+      "ChineseName": "北海道之狼™",
+      "IndonesiaName": "Hokkaido Wolf",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs576hokkwolf.png",
+      "ImagePath": null,
+      "RTP": 95.78
+    },
+    {
+      "Code": "vs50dmdcascade",
+      "EnglishName": "Diamond Cascade™",
+      "ChineseName": "钻石瀑布™",
+      "IndonesiaName": "Diamond Cascade™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50dmdcascade.png",
+      "ImagePath": null,
+      "RTP": 96.06
+    },
+    {
+      "Code": "vs20eightdragons",
+      "EnglishName": "8 Dragons",
+      "ChineseName": "8 Dragons",
+      "IndonesiaName": "8 Dragons",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20eightdragons.png",
+      "ImagePath": null,
+      "RTP": 96.37
+    },
+    {
+      "Code": "vs25goldpig",
+      "EnglishName": "Golden Pig",
+      "ChineseName": "Golden Pig",
+      "IndonesiaName": "Golden Pig",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25goldpig.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs25spotz",
+      "EnglishName": "Knight Hot Spotz™",
+      "ChineseName": "骑士热点™",
+      "IndonesiaName": "Knight Hot Spotz™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25spotz.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25tigeryear",
+      "EnglishName": "Lucky New Year Tiger Treasures ™",
+      "ChineseName": "虎虎生财",
+      "IndonesiaName": "Lucky New Year Tiger Treasures ™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25tigeryear.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vs10nudgeit",
+      "EnglishName": "Rise of Giza PowerNudge™",
+      "ChineseName": "吉萨金字塔 PowerNudge™",
+      "IndonesiaName": "Rise of Giza PowerNudge™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10nudgeit.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs10firestrike2",
+      "EnglishName": "Fire Strike 2™",
+      "ChineseName": "红火暴击2",
+      "IndonesiaName": "Fire Strike 2™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10firestrike2.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vswaysfrbugs",
+      "EnglishName": "Frogs &amp; Bugs™",
+      "ChineseName": "蛙群家族™",
+      "IndonesiaName": "Frogs &amp; Bugs™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysfrbugs.png",
+      "ImagePath": null,
+      "RTP": 96.43
+    },
+    {
+      "Code": "vs20bchprty",
+      "EnglishName": "Wild Beach Party",
+      "ChineseName": "疯狂海滩派对",
+      "IndonesiaName": "Wild Beach Party",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20bchprty.png",
+      "ImagePath": null,
+      "RTP": 95.45
+    },
+    {
+      "Code": "vs243caishien",
+      "EnglishName": "Caishen's Cash",
+      "ChineseName": "Caishen's Cash",
+      "IndonesiaName": "Caishen's Cash",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243caishien.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20vegasmagic",
+      "EnglishName": "Vegas Magic",
+      "ChineseName": "Vegas Magic",
+      "IndonesiaName": "Vegas Magic",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20vegasmagic.png",
+      "ImagePath": null,
+      "RTP": 96.08
+    },
+    {
+      "Code": "vs10bblpop",
+      "EnglishName": "Bubble Pop™",
+      "ChineseName": "泡泡糖™",
+      "IndonesiaName": "Bubble Pop™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bblpop.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vs12bbbxmas",
+      "EnglishName": "Bigger Bass Blizzard - Christmas Catch",
+      "ChineseName": "超级大鲈鱼暴风雨 - 圣诞鱼获",
+      "IndonesiaName": "Bigger Bass Blizzard - Christmas Catch",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs12bbbxmas.png",
+      "ImagePath": null,
+      "RTP": 96.08
+    },
+    {
+      "Code": "vs25gldox",
+      "EnglishName": "Golden Ox",
+      "ChineseName": "鸿运你最牛",
+      "IndonesiaName": "Golden Ox",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25gldox.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vswaysconcoll",
+      "EnglishName": "Firebird Spirit",
+      "ChineseName": "火鸟精神",
+      "IndonesiaName": "Firebird Spirit",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysconcoll.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs25rio",
+      "EnglishName": "Heart of Rio",
+      "ChineseName": "里约之心",
+      "IndonesiaName": "Heart of Rio",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25rio.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswayspizza",
+      "EnglishName": "PIZZA! PIZZA? PIZZA!",
+      "ChineseName": "比萨！比萨？比萨!",
+      "IndonesiaName": "PIZZA! PIZZA? PIZZA!",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayspizza.png",
+      "ImagePath": null,
+      "RTP": 96.04
+    },
+    {
+      "Code": "vswayscryscav",
+      "EnglishName": "Crystal Caverns Megaways ™",
+      "ChineseName": "水晶洞穴 Megaways™",
+      "IndonesiaName": "Crystal Caverns Megaways ™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayscryscav.png",
+      "ImagePath": null,
+      "RTP": 96.46
+    },
+    {
+      "Code": "vs20kraken",
+      "EnglishName": "Release the Kraken",
+      "ChineseName": "解放大海怪",
+      "IndonesiaName": "Release the Kraken",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20kraken.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5ultrab",
+      "EnglishName": "Ultra burn",
+      "ChineseName": "超级燃烧",
+      "IndonesiaName": "Ultra burn",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5ultrab.png",
+      "ImagePath": null,
+      "RTP": 96.7
+    },
+    {
+      "Code": "vs1600drago",
+      "EnglishName": "Drago - Jewels of Fortune",
+      "ChineseName": "群龙保珠-宝石致富",
+      "IndonesiaName": "Drago - Jewels of Fortune",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1600drago.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25pandagold",
+      "EnglishName": "Panda's Fortune",
+      "ChineseName": "熊猫财富",
+      "IndonesiaName": "Panda's Fortune",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25pandagold.png",
+      "ImagePath": null,
+      "RTP": 96.17
+    },
+    {
+      "Code": "vs12tropicana",
+      "EnglishName": "Club Tropicana",
+      "ChineseName": "热带俱乐部洲",
+      "IndonesiaName": "Club Tropicana",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs12tropicana.png",
+      "ImagePath": null,
+      "RTP": 96.08
+    },
+    {
+      "Code": "vs10bbkir",
+      "EnglishName": "Big Bass Bonanza - Keeping it Reel",
+      "ChineseName": "疯狂大鲈鱼持續旋轉",
+      "IndonesiaName": "Big Bass Bonanza - Keeping it Reel",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bbkir.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs25pandatemple",
+      "EnglishName": "Panda Fortune 2",
+      "ChineseName": "Panda Fortune 2",
+      "IndonesiaName": "Panda Fortune 2",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25pandatemple.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vs25btygold",
+      "EnglishName": "Bounty Gold ™",
+      "ChineseName": "赏金猎人™",
+      "IndonesiaName": "Bounty Gold ™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25btygold.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysjkrdrop",
+      "EnglishName": "Tropical Tiki™",
+      "ChineseName": "热带提基™",
+      "IndonesiaName": "Tropical Tiki™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysjkrdrop.png",
+      "ImagePath": null,
+      "RTP": 96.43
+    },
+    {
+      "Code": "vs20cleocatra",
+      "EnglishName": "Cleocatra™",
+      "ChineseName": "埃及神猫™",
+      "IndonesiaName": "Cleocatra™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20cleocatra.png",
+      "ImagePath": null,
+      "RTP": 96.2
+    },
+    {
+      "Code": "vs40samurai3",
+      "EnglishName": "Rise Of Samurai III™",
+      "ChineseName": "崛起的武士3™",
+      "IndonesiaName": "Rise Of Samurai III™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40samurai3.png",
+      "ImagePath": null,
+      "RTP": 95.55
+    },
+    {
+      "Code": "vswaysoldminer",
+      "EnglishName": "Old Gold Miner Megaways™",
+      "ChineseName": "黄金老矿工Megaways ™",
+      "IndonesiaName": "Old Gold Miner Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysoldminer.png",
+      "ImagePath": null,
+      "RTP": 96.56
+    },
+    {
+      "Code": "vs75empress",
+      "EnglishName": "Golden Beauty",
+      "ChineseName": "贵妃美人",
+      "IndonesiaName": "Golden Beauty",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs75empress.png",
+      "ImagePath": null,
+      "RTP": 96.44
+    },
+    {
+      "Code": "vs10coffee",
+      "EnglishName": "Coffee Wild™",
+      "ChineseName": "拉摩卡百搭™",
+      "IndonesiaName": "Coffee Wild™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10coffee.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs1fortunetree",
+      "EnglishName": "Tree of Riches",
+      "ChineseName": "Tree of Riches",
+      "IndonesiaName": "Tree of Riches",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1fortunetree.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs1024lionsd",
+      "EnglishName": "5 Lions Dance",
+      "ChineseName": "五狮团拜",
+      "IndonesiaName": "5 Lions Dance",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1024lionsd.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysfrywld",
+      "EnglishName": "Spin &amp; Score Megaways™",
+      "ChineseName": "旋转及射龙门 Megaways™",
+      "IndonesiaName": "Spin &amp; Score Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysfrywld.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs25mmouse",
+      "EnglishName": "Money Mouse",
+      "ChineseName": "招财鼠",
+      "IndonesiaName": "Money Mouse",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25mmouse.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vswayseternity",
+      "EnglishName": "Diamonds of Egypt™",
+      "ChineseName": "埃及钻石™",
+      "IndonesiaName": "Diamonds of Egypt™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayseternity.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs20mparty",
+      "EnglishName": "Wild Hop &amp; Drop™",
+      "ChineseName": "狂野蹦跳青蛙™",
+      "IndonesiaName": "Wild Hop &amp; Drop™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mparty.png",
+      "ImagePath": null,
+      "RTP": 96.46
+    },
+    {
+      "Code": "vs25holiday",
+      "EnglishName": "Holiday Ride™",
+      "ChineseName": "兜风假期™",
+      "IndonesiaName": "Holiday Ride™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25holiday.png",
+      "ImagePath": null,
+      "RTP": 96.56
+    },
+    {
+      "Code": "vs25kfruit",
+      "EnglishName": "Aztec Blaze™",
+      "ChineseName": "阿茲特克火焰™",
+      "IndonesiaName": "Aztec Blaze™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25kfruit.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10fisheye",
+      "EnglishName": "Fish Eye",
+      "ChineseName": "埃及鱼之眼",
+      "IndonesiaName": "Fish Eye",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10fisheye.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs20lobcrab",
+      "EnglishName": "Lobster Bob’s Crazy Crab Shack™",
+      "ChineseName": "鲍勃龙虾的疯狂螃蟹屋™",
+      "IndonesiaName": "Lobster Bob’s Crazy Crab Shack™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20lobcrab.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vs20trswild2",
+      "EnglishName": "Black Bull™",
+      "ChineseName": "黑公牛™",
+      "IndonesiaName": "Black Bull™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20trswild2.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs40cosmiccash",
+      "EnglishName": "Cosmic Cash™",
+      "ChineseName": "宇宙现金™",
+      "IndonesiaName": "Cosmic Cash™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40cosmiccash.png",
+      "ImagePath": null,
+      "RTP": 96.56
+    },
+    {
+      "Code": "vs1024temuj",
+      "EnglishName": "Temujin Treasures™",
+      "ChineseName": "铁木真宝物™",
+      "IndonesiaName": "Temujin Treasures™",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1024temuj.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs20bermuda",
+      "EnglishName": "John Hunter and the Quest for Bermuda Riches™",
+      "ChineseName": "约翰猎人与百慕大财富™",
+      "IndonesiaName": "John Hunter and the Quest for Bermuda Riches™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20bermuda.png",
+      "ImagePath": null,
+      "RTP": 96.33
+    },
+    {
+      "Code": "vs20piggybank",
+      "EnglishName": "Piggy Bankers™",
+      "ChineseName": "小猪银行家™",
+      "IndonesiaName": "Piggy Bankers™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20piggybank.png",
+      "ImagePath": null,
+      "RTP": 96.05
+    },
+    {
+      "Code": "vs1masterjoker",
+      "EnglishName": "Master Joker",
+      "ChineseName": "杰克大师",
+      "IndonesiaName": "Master Joker",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1masterjoker.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs10fruity2",
+      "EnglishName": "Extra Juicy",
+      "ChineseName": "Extra Juicy",
+      "IndonesiaName": "Extra Juicy",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10fruity2.png",
+      "ImagePath": null,
+      "RTP": 96.52
+    },
+    {
+      "Code": "vs20chickdrop",
+      "EnglishName": "Chicken Drop",
+      "ChineseName": "金鸡下蛋",
+      "IndonesiaName": "Chicken Drop",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20chickdrop.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25wildspells",
+      "EnglishName": "Wild Spells",
+      "ChineseName": "Wild Spells",
+      "IndonesiaName": "Wild Spells",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25wildspells.png",
+      "ImagePath": null,
+      "RTP": 96.4
+    },
+    {
+      "Code": "vs10trail",
+      "EnglishName": "Mustang Trail™",
+      "ChineseName": "野马踪迹™",
+      "IndonesiaName": "Mustang Trail™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10trail.png",
+      "ImagePath": null,
+      "RTP": 96.04
+    },
+    {
+      "Code": "vswayszombcarn",
+      "EnglishName": "Zombie Carnival™",
+      "ChineseName": "丧尸嘉年华™",
+      "IndonesiaName": "Zombie Carnival™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayszombcarn.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vs25newyear",
+      "EnglishName": "Lucky New Year",
+      "ChineseName": "Lucky New Year",
+      "IndonesiaName": "Lucky New Year",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25newyear.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs10floatdrg",
+      "EnglishName": "Floating Dragon Hold &amp; Spin™",
+      "ChineseName": "鱼跃龙门 持控旋转™",
+      "IndonesiaName": "Floating Dragon Hold &amp; Spin™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10floatdrg.png",
+      "ImagePath": null,
+      "RTP": 96.71
+    },
+    {
+      "Code": "vs20sparta",
+      "EnglishName": "Shield Of Sparta™",
+      "ChineseName": "斯巴达之盾™",
+      "IndonesiaName": "Shield Of Sparta™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sparta.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysmorient",
+      "EnglishName": "Mystery Of The Orient",
+      "ChineseName": "东方的奥秘",
+      "IndonesiaName": "Mystery Of The Orient",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysmorient.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs20godiva",
+      "EnglishName": "Lady Godiva",
+      "ChineseName": "Lady Godiva",
+      "IndonesiaName": "Lady Godiva",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20godiva.png",
+      "ImagePath": null,
+      "RTP": 96.54
+    },
+    {
+      "Code": "vs20magicpot",
+      "EnglishName": "The Magic Cauldron - Enchanted Brew",
+      "ChineseName": "魔法大釜绝佳药剂",
+      "IndonesiaName": "The Magic Cauldron - Enchanted Brew",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20magicpot.png",
+      "ImagePath": null,
+      "RTP": 96.44
+    },
+    {
+      "Code": "vswayschilheat",
+      "EnglishName": "Chilli Heat Megaways™",
+      "ChineseName": "超级辣椒",
+      "IndonesiaName": "Chilli Heat Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayschilheat.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswaysluckyfish",
+      "EnglishName": "Lucky Fishing Megaways™",
+      "ChineseName": "幸运捕鱼",
+      "IndonesiaName": "Lucky Fishing Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysluckyfish.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs243queenie",
+      "EnglishName": "Queenie",
+      "ChineseName": "女王",
+      "IndonesiaName": "Queenie",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243queenie.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs4096magician",
+      "EnglishName": "Magician's Secrets",
+      "ChineseName": "神秘的巫师",
+      "IndonesiaName": "Magician's Secrets",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs4096magician.png",
+      "ImagePath": null,
+      "RTP": 95.52
+    },
+    {
+      "Code": "vs20wildboost",
+      "EnglishName": "Wild Booster™",
+      "ChineseName": "百搭加强器™",
+      "IndonesiaName": "Wild Booster™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20wildboost.png",
+      "ImagePath": null,
+      "RTP": 96.47
+    },
+    {
+      "Code": "vs20wildman",
+      "EnglishName": "Wildman Super Bonanza",
+      "ChineseName": "百搭超人星际战士",
+      "IndonesiaName": "Wildman Super Bonanza",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20wildman.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs1024dtiger",
+      "EnglishName": "The Dragon Tiger",
+      "ChineseName": "龙虎榜",
+      "IndonesiaName": "The Dragon Tiger",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1024dtiger.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10jnmntzma",
+      "EnglishName": "Jane Hunter and the Mask of Montezuma™",
+      "ChineseName": "珍亨特与蒙特苏马的面具™",
+      "IndonesiaName": "Jane Hunter and the Mask of Montezuma™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10jnmntzma.png",
+      "ImagePath": null,
+      "RTP": 96.02
+    },
+    {
+      "Code": "vs40spartaking",
+      "EnglishName": "Spartan King",
+      "ChineseName": "斯巴达之王",
+      "IndonesiaName": "Spartan King",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40spartaking.png",
+      "ImagePath": null,
+      "RTP": 96.6
+    },
+    {
+      "Code": "vs20gobnudge",
+      "EnglishName": "Goblin Heist Powernudge ™",
+      "ChineseName": "地精时代™",
+      "IndonesiaName": "Goblin Heist Powernudge ™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20gobnudge.png",
+      "ImagePath": null,
+      "RTP": 95.35
+    },
+    {
+      "Code": "vs10bookfallen",
+      "EnglishName": "Book of Fallen™",
+      "ChineseName": "堕落之书",
+      "IndonesiaName": "Book of Fallen™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bookfallen.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vs432congocash",
+      "EnglishName": "Congo Cash",
+      "ChineseName": "刚果财富",
+      "IndonesiaName": "Congo Cash",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs432congocash.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs9chen",
+      "EnglishName": "Master Chen's Fortune",
+      "ChineseName": "Master Chen's Fortune",
+      "IndonesiaName": "Master Chen's Fortune",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs9chen.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs20octobeer",
+      "EnglishName": "Octobeer Fortunes™",
+      "ChineseName": "十月啤酒嘉年华™",
+      "IndonesiaName": "Octobeer Fortunes™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20octobeer.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs243chargebull",
+      "EnglishName": "Raging Bull™",
+      "ChineseName": "牛转乾坤",
+      "IndonesiaName": "Raging Bull™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243chargebull.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10powerlines",
+      "EnglishName": "Peak Power",
+      "ChineseName": "极限能量",
+      "IndonesiaName": "Peak Power",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10powerlines.png",
+      "ImagePath": null,
+      "RTP": 96.02
+    },
+    {
+      "Code": "vs25asgard",
+      "EnglishName": "Asgard",
+      "ChineseName": "Asgard",
+      "IndonesiaName": "Asgard",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25asgard.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs20emptybank",
+      "EnglishName": "Empty the Bank",
+      "ChineseName": "盗空银行",
+      "IndonesiaName": "Empty the Bank",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20emptybank.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs50pixie",
+      "EnglishName": "Pixie Wings",
+      "ChineseName": "Pixie Wings",
+      "IndonesiaName": "Pixie Wings",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50pixie.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs40bigjuan",
+      "EnglishName": "Big Juan ™",
+      "ChineseName": "墨西哥餐厅™",
+      "IndonesiaName": "Big Juan ™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40bigjuan.png",
+      "ImagePath": null,
+      "RTP": 96.7
+    },
+    {
+      "Code": "vs20ultim5",
+      "EnglishName": "The Ultimate 5™",
+      "ChineseName": "终极之5",
+      "IndonesiaName": "The Ultimate 5™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20ultim5.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs40cleoeye",
+      "EnglishName": "Eye of Cleopatra™",
+      "ChineseName": "埃及艳后之眼",
+      "IndonesiaName": "Eye of Cleopatra™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40cleoeye.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs50mightra",
+      "EnglishName": "Might of Ra",
+      "ChineseName": "埃及神祇",
+      "IndonesiaName": "Might of Ra",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50mightra.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs20lvlup",
+      "EnglishName": "Pub Kings™",
+      "ChineseName": "酒吧之王™",
+      "IndonesiaName": "Pub Kings™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20lvlup.png",
+      "ImagePath": null,
+      "RTP": 96.08
+    },
+    {
+      "Code": "vs25wolfgold",
+      "EnglishName": "Wolf Gold",
+      "ChineseName": "Wolf Gold",
+      "IndonesiaName": "Wolf Gold",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25wolfgold.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vswaysstrwild",
+      "EnglishName": "Candy Stars™",
+      "ChineseName": "糖果星星™",
+      "IndonesiaName": "Candy Stars™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysstrwild.png",
+      "ImagePath": null,
+      "RTP": 96.47
+    },
+    {
+      "Code": "vs20hburnhs",
+      "EnglishName": "Hot to Burn Hold and Spin™",
+      "ChineseName": "热火燃烧 持控旋转™",
+      "IndonesiaName": "Hot to Burn Hold and Spin™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20hburnhs.png",
+      "ImagePath": null,
+      "RTP": 96.7
+    },
+    {
+      "Code": "vswaysbook",
+      "EnglishName": "Book of Golden Sands™",
+      "ChineseName": "埃及金沙之书™",
+      "IndonesiaName": "Book of Golden Sands™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysbook.png",
+      "ImagePath": null,
+      "RTP": 96.46
+    },
+    {
+      "Code": "vswaysbbb",
+      "EnglishName": "Big Bass Bonanza Megaways™",
+      "ChineseName": "疯狂大鲈鱼 Megaways™",
+      "IndonesiaName": "Big Bass Bonanza Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysbbb.png",
+      "ImagePath": null,
+      "RTP": 95.66
+    },
+    {
+      "Code": "vs25pyramid",
+      "EnglishName": "Pyramid King",
+      "ChineseName": "王者金字塔",
+      "IndonesiaName": "Pyramid King",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25pyramid.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20sknights",
+      "EnglishName": "The Knight King™",
+      "ChineseName": "骑士之王™",
+      "IndonesiaName": "The Knight King™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sknights.png",
+      "ImagePath": null,
+      "RTP": 96.05
+    },
+    {
+      "Code": "vs243mwarrior",
+      "EnglishName": "Monkey Warrior",
+      "ChineseName": "Monkey Warrior",
+      "IndonesiaName": "Monkey Warrior",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243mwarrior.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20rhino",
+      "EnglishName": "Great Rhino",
+      "ChineseName": "Great Rhino",
+      "IndonesiaName": "Great Rhino",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20rhino.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs243dancingpar",
+      "EnglishName": "Dance Party",
+      "ChineseName": "跳舞趴",
+      "IndonesiaName": "Dance Party",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243dancingpar.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswayswerewolf",
+      "EnglishName": "Curse of the Werewolf Megaways",
+      "ChineseName": "野狼的诅咒",
+      "IndonesiaName": "Curse of the Werewolf Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayswerewolf.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5super7",
+      "EnglishName": "Super 7s",
+      "ChineseName": "超级7",
+      "IndonesiaName": "Super 7s",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5super7.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10crownfire",
+      "EnglishName": "Crown of Fire™",
+      "ChineseName": "王冠之火™",
+      "IndonesiaName": "Crown of Fire™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10crownfire.png",
+      "ImagePath": null,
+      "RTP": 96.36
+    },
+    {
+      "Code": "vswayswwhex",
+      "EnglishName": "Wild Wild Bananas™",
+      "ChineseName": "狂野美味香蕉™",
+      "IndonesiaName": "Wild Wild Bananas™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayswwhex.png",
+      "ImagePath": null,
+      "RTP": 96.1
+    },
+    {
+      "Code": "vs3train",
+      "EnglishName": "Gold Train",
+      "ChineseName": "Gold Train",
+      "IndonesiaName": "Gold Train",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs3train.png",
+      "ImagePath": null,
+      "RTP": 97.16
+    },
+    {
+      "Code": "vs20terrorv",
+      "EnglishName": "Cash Elevator",
+      "ChineseName": "现金升降机",
+      "IndonesiaName": "Cash Elevator",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20terrorv.png",
+      "ImagePath": null,
+      "RTP": 96.64
+    },
+    {
+      "Code": "vs20ltng",
+      "EnglishName": "Pinup Girls™",
+      "ChineseName": "海报女郎™",
+      "IndonesiaName": "Pinup Girls™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20ltng.png",
+      "ImagePath": null,
+      "RTP": 96.44
+    },
+    {
+      "Code": "vs10tut",
+      "EnglishName": "John Hunter &amp; the Book of Tut Respin™",
+      "ChineseName": "约翰猎人与埃及之书重转™",
+      "IndonesiaName": "John Hunter &amp; the Book of Tut Respin™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10tut.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5strh",
+      "EnglishName": "Striking Hot 5™",
+      "ChineseName": "火热闪烁5™",
+      "IndonesiaName": "Striking Hot 5™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5strh.png",
+      "ImagePath": null,
+      "RTP": 96.29
+    },
+    {
+      "Code": "vs10eyestorm",
+      "EnglishName": "Eye of the Storm™",
+      "ChineseName": "风暴之眼™",
+      "IndonesiaName": "Eye of the Storm™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10eyestorm.png",
+      "ImagePath": null,
+      "RTP": 96.71
+    },
+    {
+      "Code": "vs10mmm",
+      "EnglishName": "Magic Money Maze",
+      "ChineseName": "魔幻钱迷宫",
+      "IndonesiaName": "Magic Money Maze",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10mmm.png",
+      "ImagePath": null,
+      "RTP": 95.6
+    },
+    {
+      "Code": "vs25dragonkingdom",
+      "EnglishName": "Dragon Kingdom",
+      "ChineseName": "Dragon Kingdom",
+      "IndonesiaName": "Dragon Kingdom",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25dragonkingdom.png",
+      "ImagePath": null,
+      "RTP": 96.47
+    },
+    {
+      "Code": "vs20drtgold",
+      "EnglishName": "Drill that Gold™",
+      "ChineseName": "钻取金子",
+      "IndonesiaName": "Drill that Gold™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20drtgold.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs10egrich",
+      "EnglishName": "Queen of Gods™",
+      "ChineseName": "艳后之神™",
+      "IndonesiaName": "Queen of Gods™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10egrich.png",
+      "ImagePath": null,
+      "RTP": 96.38
+    },
+    {
+      "Code": "vs25kingdoms",
+      "EnglishName": "3 Kingdoms - Battle of Red Cliffs",
+      "ChineseName": "3 Kingdoms - Battle of Red Cliffs",
+      "IndonesiaName": "3 Kingdoms - Battle of Red Cliffs",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25kingdoms.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20mvwild",
+      "EnglishName": "Jasmine Dreams™",
+      "ChineseName": "阿拉伯之梦™",
+      "IndonesiaName": "Jasmine Dreams™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mvwild.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs10threestar",
+      "EnglishName": "Three Star Fortune",
+      "ChineseName": "三星报喜",
+      "IndonesiaName": "Three Star Fortune",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10threestar.png",
+      "ImagePath": null,
+      "RTP": 96.27
+    },
+    {
+      "Code": "vs100firehot",
+      "EnglishName": "Fire Hot 100™",
+      "ChineseName": "热火 100™",
+      "IndonesiaName": "Fire Hot 100™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs100firehot.png",
+      "ImagePath": null,
+      "RTP": 95.29
+    },
+    {
+      "Code": "vs25bomb",
+      "EnglishName": "Bomb Bonanza™",
+      "ChineseName": "轰炸富矿™",
+      "IndonesiaName": "Bomb Bonanza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25bomb.png",
+      "ImagePath": null,
+      "RTP": 96.46
+    },
+    {
+      "Code": "vs5spjoker",
+      "EnglishName": "Super Joker",
+      "ChineseName": "Super Joker",
+      "IndonesiaName": "Super Joker",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5spjoker.png",
+      "ImagePath": null,
+      "RTP": 96.52
+    },
+    {
+      "Code": "vs10kingofdth",
+      "EnglishName": "Kingdom of the Dead™",
+      "ChineseName": "亡者王国™",
+      "IndonesiaName": "Kingdom of the Dead™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10kingofdth.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs25spgldways",
+      "EnglishName": "Secret City Gold™",
+      "ChineseName": "神秘黄金之城™",
+      "IndonesiaName": "Secret City Gold™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25spgldways.png",
+      "ImagePath": null,
+      "RTP": 96.06
+    },
+    {
+      "Code": "vs243koipond",
+      "EnglishName": "Koi Pond™",
+      "ChineseName": "招财锦鲤™",
+      "IndonesiaName": "Koi Pond™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243koipond.png",
+      "ImagePath": null,
+      "RTP": 95.48
+    },
+    {
+      "Code": "vs1024gmayhem",
+      "EnglishName": "Gorilla Mayhem™",
+      "ChineseName": "暴怒猩猩™",
+      "IndonesiaName": "Gorilla Mayhem™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1024gmayhem.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20wolfie",
+      "EnglishName": "Greedy Wolf™",
+      "ChineseName": "野狼与小猪™",
+      "IndonesiaName": "Greedy Wolf™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20wolfie.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs5littlegem",
+      "EnglishName": "Little Gem",
+      "ChineseName": "优质宝石 持控旋转™",
+      "IndonesiaName": "Little Gem",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5littlegem.png",
+      "ImagePath": null,
+      "RTP": 96.7
+    },
+    {
+      "Code": "vs40pirate",
+      "EnglishName": "Pirate Gold",
+      "ChineseName": "Pirate Gold",
+      "IndonesiaName": "Pirate Gold",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40pirate.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vswayshive",
+      "EnglishName": "Star Bounty",
+      "ChineseName": "星际赏金",
+      "IndonesiaName": "Star Bounty",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayshive.png",
+      "ImagePath": null,
+      "RTP": 96.61
+    },
+    {
+      "Code": "vs10spiritadv",
+      "EnglishName": "Spirit of Adventure",
+      "ChineseName": "寻宝冒险精神",
+      "IndonesiaName": "Spirit of Adventure",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10spiritadv.png",
+      "ImagePath": null,
+      "RTP": 95.6
+    },
+    {
+      "Code": "vs40madwheel",
+      "EnglishName": "The Wild Machine",
+      "ChineseName": "疯狂机器",
+      "IndonesiaName": "The Wild Machine",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40madwheel.png",
+      "ImagePath": null,
+      "RTP": 96.52
+    },
+    {
+      "Code": "vs10egyptcls",
+      "EnglishName": "Ancient Egypt Classic",
+      "ChineseName": "Ancient Egypt Classic",
+      "IndonesiaName": "Ancient Egypt Classic",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10egyptcls.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs50chinesecharms",
+      "EnglishName": "Lucky Dragons",
+      "ChineseName": "Lucky Dragons",
+      "IndonesiaName": "Lucky Dragons",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50chinesecharms.png",
+      "ImagePath": null,
+      "RTP": 95.19
+    },
+    {
+      "Code": "vs1fufufu",
+      "EnglishName": "Fu Fu Fu",
+      "ChineseName": "福福福",
+      "IndonesiaName": "Fu Fu Fu",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1fufufu.png",
+      "ImagePath": null,
+      "RTP": 96.84
+    },
+    {
+      "Code": "vs10wildtut",
+      "EnglishName": "Mysterious Egypt",
+      "ChineseName": "古埃及神话",
+      "IndonesiaName": "Mysterious Egypt",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10wildtut.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20rainbowg",
+      "EnglishName": "Rainbow Gold",
+      "ChineseName": "黄金彩虹",
+      "IndonesiaName": "Rainbow Gold",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20rainbowg.png",
+      "ImagePath": null,
+      "RTP": 96.45
+    },
+    {
+      "Code": "vs10snakeladd",
+      "EnglishName": "Snakes and Ladders Megadice",
+      "ChineseName": "蛇梯棋超级骰子",
+      "IndonesiaName": "Snakes and Ladders Megadice",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10snakeladd.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs50safariking",
+      "EnglishName": "Safari King",
+      "ChineseName": "Safari King",
+      "IndonesiaName": "Safari King",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50safariking.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs25safari",
+      "EnglishName": "Hot Safari",
+      "ChineseName": "Hot Safari",
+      "IndonesiaName": "Hot Safari",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25safari.png",
+      "ImagePath": null,
+      "RTP": 96.17
+    },
+    {
+      "Code": "vs25safari_jp",
+      "EnglishName": "Hot Safari JP",
+      "ChineseName": "Hot Safari JP",
+      "IndonesiaName": "Hot Safari JP",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25safari.png",
+      "ImagePath": null,
+      "RTP": 96.17
+    },
+    {
+      "Code": "vs25samurai",
+      "EnglishName": "Rise of Samurai",
+      "ChineseName": "崛起的武士",
+      "IndonesiaName": "Rise of Samurai",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25samurai.png",
+      "ImagePath": null,
+      "RTP": 96.47
+    },
+    {
+      "Code": "vs20santa",
+      "EnglishName": "Santa",
+      "ChineseName": "Santa",
+      "IndonesiaName": "Santa",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20santa.png",
+      "ImagePath": null,
+      "RTP": 95.92
+    },
+    {
+      "Code": "vs5drmystery",
+      "EnglishName": "Dragon Kingdom Eyes of Fire",
+      "ChineseName": "神龙宝藏雄火之眼",
+      "IndonesiaName": "Dragon Kingdom Eyes of Fire",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5drmystery.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs25queenofgold",
+      "EnglishName": "Queen of Gold",
+      "ChineseName": "Queen of Gold",
+      "IndonesiaName": "Queen of Gold",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25queenofgold.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20rockvegas",
+      "EnglishName": "Rock Vegas™",
+      "ChineseName": "石头族赌城™",
+      "IndonesiaName": "Rock Vegas™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20rockvegas.png",
+      "ImagePath": null,
+      "RTP": 96.64
+    },
+    {
+      "Code": "vs117649starz",
+      "EnglishName": "Starz Megaways",
+      "ChineseName": "行星宝石 Megaways",
+      "IndonesiaName": "Starz Megaways",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs117649starz.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs25goldrush",
+      "EnglishName": "Gold Rush",
+      "ChineseName": "Gold Rush",
+      "IndonesiaName": "Gold Rush",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25goldrush.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5drhs",
+      "EnglishName": "Dragon Hot Hold and Spin",
+      "ChineseName": "热火龙 持控旋转",
+      "IndonesiaName": "Dragon Hot Hold and Spin",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5drhs.png",
+      "ImagePath": null,
+      "RTP": 95.63
+    },
+    {
+      "Code": "vs25tigerwar",
+      "EnglishName": "The Tiger Warrior",
+      "ChineseName": "武松打虎",
+      "IndonesiaName": "The Tiger Warrior",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25tigerwar.png",
+      "ImagePath": null,
+      "RTP": 96.01
+    },
+    {
+      "Code": "vs1ball",
+      "EnglishName": "Lucky Dragon Ball",
+      "ChineseName": "金龙吐珠",
+      "IndonesiaName": "Lucky Dragon Ball",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1ball.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs50aladdin",
+      "EnglishName": "3 Genie Wishes",
+      "ChineseName": "3 Genie Wishes",
+      "IndonesiaName": "3 Genie Wishes",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50aladdin.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs30catz_jp",
+      "EnglishName": "The Catfather Part II JP",
+      "ChineseName": "The Catfather Part II JP",
+      "IndonesiaName": "The Catfather Part II JP",
+      "Category": [
+        "VIDEOSLOT",
+        "PROGRESSIVEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/The-Catfather-Part-II.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs40pirgold",
+      "EnglishName": "Pirate Gold Deluxe",
+      "ChineseName": "黄金海盗加强版",
+      "IndonesiaName": "Pirate Gold Deluxe",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40pirgold.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs25jokerking",
+      "EnglishName": "Joker King™",
+      "ChineseName": "小丑帝国™",
+      "IndonesiaName": "Joker King™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25jokerking.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25archer",
+      "EnglishName": "Fire Archer™",
+      "ChineseName": "热火弓箭手™",
+      "IndonesiaName": "Fire Archer™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25archer.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs243ckemp",
+      "EnglishName": "Cheeky Emperor™",
+      "ChineseName": "金龙帝国",
+      "IndonesiaName": "Cheeky Emperor™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243ckemp.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs18mashang",
+      "EnglishName": "Treasure Horse",
+      "ChineseName": "Treasure Horse",
+      "IndonesiaName": "Treasure Horse",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs18mashang.png",
+      "ImagePath": null,
+      "RTP": 96.52
+    },
+    {
+      "Code": "vs1024moonsh",
+      "EnglishName": "Moonshot™",
+      "ChineseName": "登陆月球™",
+      "IndonesiaName": "Moonshot™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1024moonsh.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10mayangods",
+      "EnglishName": "John Hunter and the Mayan Gods",
+      "ChineseName": "约翰玛雅冒险记",
+      "IndonesiaName": "John Hunter and the Mayan Gods",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10mayangods.png",
+      "ImagePath": null,
+      "RTP": 96.46
+    },
+    {
+      "Code": "vs9piggybank",
+      "EnglishName": "PIGGY BANK BILLS™",
+      "ChineseName": "百万$小猪",
+      "IndonesiaName": "PIGGY BANK BILLS™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs9piggybank.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20gorilla",
+      "EnglishName": "Jungle Gorilla",
+      "ChineseName": "深林之猩",
+      "IndonesiaName": "Jungle Gorilla",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20gorilla.png",
+      "ImagePath": null,
+      "RTP": 96.57
+    },
+    {
+      "Code": "vs7monkeys",
+      "EnglishName": "7 Monkeys",
+      "ChineseName": "7 Monkeys",
+      "IndonesiaName": "7 Monkeys",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs7monkeys.png",
+      "ImagePath": null,
+      "RTP": 92.71
+    },
+    {
+      "Code": "vs20hotzone",
+      "EnglishName": "African Elephant™",
+      "ChineseName": "非洲大象™",
+      "IndonesiaName": "African Elephant™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20hotzone.png",
+      "ImagePath": null,
+      "RTP": 96.04
+    },
+    {
+      "Code": "vswaysbankbonz",
+      "EnglishName": "Cash Bonanza™",
+      "ChineseName": "水果银行",
+      "IndonesiaName": "Cash Bonanza™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysbankbonz.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vs8magicjourn",
+      "EnglishName": "Magic Journey",
+      "ChineseName": "西游争霸",
+      "IndonesiaName": "Magic Journey",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs8magicjourn.png",
+      "ImagePath": null,
+      "RTP": 96.54
+    },
+    {
+      "Code": "vs20underground",
+      "EnglishName": "Down The Rails™",
+      "ChineseName": "伦敦地铁™",
+      "IndonesiaName": "Down The Rails™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20underground.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs1024butterfly",
+      "EnglishName": "Jade Butterfly",
+      "ChineseName": "Jade Butterfly",
+      "IndonesiaName": "Jade Butterfly",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs1024butterfly.png",
+      "ImagePath": null,
+      "RTP": 96.47
+    },
+    {
+      "Code": "vs40firehot",
+      "EnglishName": "Fire Hot 40™",
+      "ChineseName": "热火 40™",
+      "IndonesiaName": "Fire Hot 40™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40firehot.png",
+      "ImagePath": null,
+      "RTP": 95.26
+    },
+    {
+      "Code": "vs20stickysymbol",
+      "EnglishName": "The Great Stick-Up™",
+      "ChineseName": "城市大盗™",
+      "IndonesiaName": "The Great Stick-Up™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20stickysymbol.png",
+      "ImagePath": null,
+      "RTP": 96.3
+    },
+    {
+      "Code": "vswaysredqueen",
+      "EnglishName": "The Red Queen™",
+      "ChineseName": "红桃王后™",
+      "IndonesiaName": "The Red Queen™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysredqueen.png",
+      "ImagePath": null,
+      "RTP": 96.06
+    },
+    {
+      "Code": "vs5hotburn",
+      "EnglishName": "Hot to Burn",
+      "ChineseName": "热火燃烧",
+      "IndonesiaName": "Hot to Burn",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5hotburn.png",
+      "ImagePath": null,
+      "RTP": 96.71
+    },
+    {
+      "Code": "vs25vegas",
+      "EnglishName": "Vegas Nights",
+      "ChineseName": "Vegas Nights",
+      "IndonesiaName": "Vegas Nights",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25vegas.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vs5ultrab",
+      "EnglishName": "Ultra burn",
+      "ChineseName": "超级燃烧",
+      "IndonesiaName": "Ultra burn",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5ultrab.png",
+      "ImagePath": null,
+      "RTP": 96.7
+    },
+    {
+      "Code": "vs40frrainbow",
+      "EnglishName": "Fruit Rainbow",
+      "ChineseName": "彩虹水果",
+      "IndonesiaName": "Fruit Rainbow",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40frrainbow.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs50hercules",
+      "EnglishName": "Hercules Son of Zeus",
+      "ChineseName": "Hercules Son of Zeus",
+      "IndonesiaName": "Hercules Son of Zeus",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50hercules.png",
+      "ImagePath": null,
+      "RTP": 95.19
+    },
+    {
+      "Code": "vswayswest",
+      "EnglishName": "Mystic Chief™",
+      "ChineseName": "神秘的酋长™",
+      "IndonesiaName": "Mystic Chief™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswayswest.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs20mtreasure",
+      "EnglishName": "Pirate Golden Age™",
+      "ChineseName": "海盗黄金時代™",
+      "IndonesiaName": "Pirate Golden Age™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20mtreasure.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs20egypttrs",
+      "EnglishName": "Egyptian Fortunes",
+      "ChineseName": "Egyptian Fortunes",
+      "IndonesiaName": "Egyptian Fortunes",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20egypttrs.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10madame",
+      "EnglishName": "Madame Destiny",
+      "ChineseName": "Madame Destiny",
+      "IndonesiaName": "Madame Destiny",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10madame.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20honey",
+      "EnglishName": "Honey Honey Honey",
+      "ChineseName": "甜蜜蜜",
+      "IndonesiaName": "Honey Honey Honey",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20honey.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs4096mystery",
+      "EnglishName": "Mysterious",
+      "ChineseName": "神秘之城",
+      "IndonesiaName": "Mysterious",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs4096mystery.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs9hotroll",
+      "EnglishName": "Hot Chili",
+      "ChineseName": "Hot Chili",
+      "IndonesiaName": "Hot Chili",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs9hotroll.png",
+      "ImagePath": null,
+      "RTP": 96.52
+    },
+    {
+      "Code": "vs20wildpix",
+      "EnglishName": "Wild Pixies",
+      "ChineseName": "野精灵",
+      "IndonesiaName": "Wild Pixies",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20wildpix.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10snakeeyes",
+      "EnglishName": "Snakes &amp; Ladders - Snake Eyes",
+      "ChineseName": "蛇和梯子：蛇眼",
+      "IndonesiaName": "Snakes &amp; Ladders - Snake Eyes",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10snakeeyes.png",
+      "ImagePath": null,
+      "RTP": 96.08
+    },
+    {
+      "Code": "vs10bookazteck",
+      "EnglishName": "Book of Aztec King",
+      "ChineseName": "阿兹特克国王之书",
+      "IndonesiaName": "Book of Aztec King",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bookazteck.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs10starpirate",
+      "EnglishName": "Star Pirates Code™",
+      "ChineseName": "星际海盗代码™",
+      "IndonesiaName": "Star Pirates Code™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10starpirate.png",
+      "ImagePath": null,
+      "RTP": 96.7
+    },
+    {
+      "Code": "vs50kingkong",
+      "EnglishName": "Mighty Kong",
+      "ChineseName": "Mighty Kong",
+      "IndonesiaName": "Mighty Kong",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50kingkong.png",
+      "ImagePath": null,
+      "RTP": 96.64
+    },
+    {
+      "Code": "vs10goldfish",
+      "EnglishName": "Fishin' Reels™",
+      "ChineseName": "大鱼奇缘™",
+      "IndonesiaName": "Fishin' Reels™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10goldfish.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs5trdragons",
+      "EnglishName": "Triple Dragons",
+      "ChineseName": "Triple Dragons",
+      "IndonesiaName": "Triple Dragons",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5trdragons.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vs20chicken",
+      "EnglishName": "The Great Chicken Escape",
+      "ChineseName": "The Great Chicken Escape",
+      "IndonesiaName": "The Great Chicken Escape",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20chicken.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20theights",
+      "EnglishName": "Towering Fortunes™",
+      "ChineseName": "摩天大楼™",
+      "IndonesiaName": "Towering Fortunes™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20theights.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25gladiator",
+      "EnglishName": "Wild Gladiator",
+      "ChineseName": "Wild Gladiator",
+      "IndonesiaName": "Wild Gladiator",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25gladiator.png",
+      "ImagePath": null,
+      "RTP": 96.17
+    },
+    {
+      "Code": "vs7776secrets",
+      "EnglishName": "John Hunter and the Aztec Treasure",
+      "ChineseName": "John Hunter and the Aztec Treasure",
+      "IndonesiaName": "John Hunter and the Aztec Treasure",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs7776secrets.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs40voodoo",
+      "EnglishName": "Voodoo Magic",
+      "ChineseName": "魔法巫师",
+      "IndonesiaName": "Voodoo Magic",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40voodoo.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25bkofkngdm",
+      "EnglishName": "Book Of Kingdoms",
+      "ChineseName": "圣书帝国",
+      "IndonesiaName": "Book Of Kingdoms",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25bkofkngdm.png",
+      "ImagePath": null,
+      "RTP": 96.69
+    },
+    {
+      "Code": "vs15fairytale",
+      "EnglishName": "Fairytale Fortune",
+      "ChineseName": "Fairytale Fortune",
+      "IndonesiaName": "Fairytale Fortune",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs15fairytale.png",
+      "ImagePath": null,
+      "RTP": 96.52
+    },
+    {
+      "Code": "vs20hercpeg",
+      "EnglishName": "Hercules and Pegasus",
+      "ChineseName": "大力神和飞马",
+      "IndonesiaName": "Hercules and Pegasus",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20hercpeg.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20ekingrr",
+      "EnglishName": "Emerald King Rainbow Road",
+      "ChineseName": "翡翠之王 彩虹桥",
+      "IndonesiaName": "Emerald King Rainbow Road",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20ekingrr.png",
+      "ImagePath": null,
+      "RTP": 96.71
+    },
+    {
+      "Code": "vs20sh",
+      "EnglishName": "Shining Hot 20™",
+      "ChineseName": "闪亮热火 20™",
+      "IndonesiaName": "Shining Hot 20™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20sh.png",
+      "ImagePath": null,
+      "RTP": 96.33
+    },
+    {
+      "Code": "vs13g",
+      "EnglishName": "Devil's 13",
+      "ChineseName": "Devil's 13",
+      "IndonesiaName": "Devil's 13",
+      "Category": [
+        "VIDEOSLOT",
+        "IN-GAMEJP"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs13g.png",
+      "ImagePath": null,
+      "RTP": 95.06
+    },
+    {
+      "Code": "vs20leprechaun",
+      "EnglishName": "Leprechaun Song",
+      "ChineseName": "Leprechaun Song",
+      "IndonesiaName": "Leprechaun Song",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20leprechaun.png",
+      "ImagePath": null,
+      "RTP": 96.46
+    },
+    {
+      "Code": "vs10vampwolf",
+      "EnglishName": "Vampires vs Wolves",
+      "ChineseName": "Vampires vs Wolves",
+      "IndonesiaName": "Vampires vs Wolves",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10vampwolf.png",
+      "ImagePath": null,
+      "RTP": 96.49
+    },
+    {
+      "Code": "vs10bookoftut",
+      "EnglishName": "John Hunter and the Book of Tut",
+      "ChineseName": "约翰.亨特之埃及图特书",
+      "IndonesiaName": "John Hunter and the Book of Tut",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10bookoftut.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs40hotburnx",
+      "EnglishName": "Hot to Burn Extreme",
+      "ChineseName": "极度热火燃烧",
+      "IndonesiaName": "Hot to Burn Extreme",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40hotburnx.png",
+      "ImagePath": null,
+      "RTP": 96.65
+    },
+    {
+      "Code": "vs88hockattack",
+      "EnglishName": "Hockey Attack™",
+      "ChineseName": "冰球竞赛™",
+      "IndonesiaName": "Hockey Attack™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs88hockattack.png",
+      "ImagePath": null,
+      "RTP": 96.37
+    },
+    {
+      "Code": "vs7pigs",
+      "EnglishName": "7 Piggies",
+      "ChineseName": "7 Piggies",
+      "IndonesiaName": "7 Piggies",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs7pigs.png",
+      "ImagePath": null,
+      "RTP": 95.99
+    },
+    {
+      "Code": "vs20lcount",
+      "EnglishName": "Gems of Serengeti™",
+      "ChineseName": "塞伦盖蒂之宝石™",
+      "IndonesiaName": "Gems of Serengeti™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20lcount.png",
+      "ImagePath": null,
+      "RTP": 96.4
+    },
+    {
+      "Code": "vs5firehot",
+      "EnglishName": "Fire Hot 5™",
+      "ChineseName": "热火 5™",
+      "IndonesiaName": "Fire Hot 5™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs5firehot.png",
+      "ImagePath": null,
+      "RTP": 95.41
+    },
+    {
+      "Code": "vs10luckcharm",
+      "EnglishName": "Lucky Grace And Charm™",
+      "ChineseName": "幸运，恩典和魅力",
+      "IndonesiaName": "Lucky Grace And Charm™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10luckcharm.png",
+      "ImagePath": null,
+      "RTP": 95.67
+    },
+    {
+      "Code": "vs25dwarves_new",
+      "EnglishName": "Dwarven Gold Deluxe",
+      "ChineseName": "Dwarven Gold Deluxe",
+      "IndonesiaName": "Dwarven Gold Deluxe",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25dwarves_new.png",
+      "ImagePath": null,
+      "RTP": 96.47
+    },
+    {
+      "Code": "vs20colcashzone",
+      "EnglishName": "Colossal Cash Zone™",
+      "ChineseName": "巨大的现金区域",
+      "IndonesiaName": "Colossal Cash Zone™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20colcashzone.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs20fh",
+      "EnglishName": "Fire Hot 20™",
+      "ChineseName": "热火 20™",
+      "IndonesiaName": "Fire Hot 20™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20fh.png",
+      "ImagePath": null,
+      "RTP": 95.21
+    },
+    {
+      "Code": "vs243discolady",
+      "EnglishName": "Disco Lady",
+      "ChineseName": "迪斯科女士",
+      "IndonesiaName": "Disco Lady",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs243discolady.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs25journey",
+      "EnglishName": "Journey to the West",
+      "ChineseName": "Journey to the West",
+      "IndonesiaName": "Journey to the West",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25journey.png",
+      "ImagePath": null,
+      "RTP": 96.47
+    },
+    {
+      "Code": "vs10chkchase",
+      "EnglishName": "Chicken Chase™",
+      "ChineseName": "农场追逐",
+      "IndonesiaName": "Chicken Chase™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10chkchase.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs20smugcove",
+      "EnglishName": "Smugglers Cove™",
+      "ChineseName": "走私者海湾™",
+      "IndonesiaName": "Smugglers Cove™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20smugcove.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs50northgard",
+      "EnglishName": "North Guardians™",
+      "ChineseName": "北境守护者™",
+      "IndonesiaName": "North Guardians™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs50northgard.png",
+      "ImagePath": null,
+      "RTP": 96.3
+    },
+    {
+      "Code": "vs40wanderw",
+      "EnglishName": "Wild Depths™",
+      "ChineseName": "深海动物™",
+      "IndonesiaName": "Wild Depths™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40wanderw.png",
+      "ImagePath": null,
+      "RTP": 96.48
+    },
+    {
+      "Code": "vs40streetracer",
+      "EnglishName": "Street Racer",
+      "ChineseName": "街头赛车",
+      "IndonesiaName": "Street Racer",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs40streetracer.png",
+      "ImagePath": null,
+      "RTP": 96.52
+    },
+    {
+      "Code": "vs25bullfiesta",
+      "EnglishName": "Bull Fiesta",
+      "ChineseName": "斗牛嘉年华",
+      "IndonesiaName": "Bull Fiesta",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25bullfiesta.png",
+      "ImagePath": null,
+      "RTP": null
+    },
+    {
+      "Code": "vs20leprexmas",
+      "EnglishName": "Leprechaun Carol",
+      "ChineseName": "Leprechaun Carol",
+      "IndonesiaName": "Leprechaun Carol",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20leprexmas.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs25davinci",
+      "EnglishName": "Da Vinci's Treasure",
+      "ChineseName": "Da Vinci's Treasure",
+      "IndonesiaName": "Da Vinci's Treasure",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25davinci.png",
+      "ImagePath": null,
+      "RTP": 96.53
+    },
+    {
+      "Code": "vs20aladdinsorc",
+      "EnglishName": "Aladdin and the Sorcerrer",
+      "ChineseName": "阿拉丁和巫师",
+      "IndonesiaName": "Aladdin and the Sorcerrer",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20aladdinsorc.png",
+      "ImagePath": null,
+      "RTP": 96.23
+    },
+    {
+      "Code": "vs20daydead",
+      "EnglishName": "Day of Dead™",
+      "ChineseName": "亡灵节™",
+      "IndonesiaName": "Day of Dead™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20daydead.png",
+      "ImagePath": null,
+      "RTP": 95.5
+    },
+    {
+      "Code": "vs10returndead",
+      "EnglishName": "Return of the Dead",
+      "ChineseName": "活死人归来",
+      "IndonesiaName": "Return of the Dead",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10returndead.png",
+      "ImagePath": null,
+      "RTP": 96.71
+    },
+    {
+      "Code": "vs25peking",
+      "EnglishName": "Peking Luck",
+      "ChineseName": "Peking Luck",
+      "IndonesiaName": "Peking Luck",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25peking.png",
+      "ImagePath": null,
+      "RTP": 96.5
+    },
+    {
+      "Code": "vs25walker",
+      "EnglishName": "Wild Walker",
+      "ChineseName": "行尸走肉",
+      "IndonesiaName": "Wild Walker",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs25walker.png",
+      "ImagePath": null,
+      "RTP": 96.55
+    },
+    {
+      "Code": "vs10tictac",
+      "EnglishName": "Tic Tac Take",
+      "ChineseName": "井字游戏",
+      "IndonesiaName": "Tic Tac Take",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs10tictac.png",
+      "ImagePath": null,
+      "RTP": 96.63
+    },
+    {
+      "Code": "vs4096robber",
+      "EnglishName": "Robber Strike™",
+      "ChineseName": "大盗反击™",
+      "IndonesiaName": "Robber Strike™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs4096robber.png",
+      "ImagePath": null,
+      "RTP": 96.51
+    },
+    {
+      "Code": "vswaysfltdrg",
+      "EnglishName": "Floating Dragon Hold &amp; Spin Megaways™",
+      "ChineseName": "鱼跃龙门 Megaways 持控旋转™",
+      "IndonesiaName": "Floating Dragon Hold &amp; Spin Megaways™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vswaysfltdrg.png",
+      "ImagePath": null,
+      "RTP": 96.7
+    },
+    {
+      "Code": "vs9outlaw",
+      "EnglishName": "Pirates Pub™",
+      "ChineseName": "海盗酒吧™",
+      "IndonesiaName": "Pirates Pub™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs9outlaw.png",
+      "ImagePath": null,
+      "RTP": 96.03
+    },
+    {
+      "Code": "vs20beefed",
+      "EnglishName": "Fat Panda™",
+      "ChineseName": "肥宝熊猫™",
+      "IndonesiaName": "Fat Panda™",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs20beefed.png",
+      "ImagePath": null,
+      "RTP": 96.07
+    },
+    {
+      "Code": "vs75bronco",
+      "EnglishName": "Bronco Spirit",
+      "ChineseName": "布洛克精神",
+      "IndonesiaName": "Bronco Spirit",
+      "Category": [
+        "VIDEOSLOT"
+      ],
+      "Flag": [],
+      "Image": "https://game.matrix138.com/img/ppx/vs75bronco.png",
+      "ImagePath": null,
+      "RTP": 96.63
+    }
+  ]
+}
