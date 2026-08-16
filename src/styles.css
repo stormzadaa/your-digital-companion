@@ -149,3 +149,31 @@
     color: var(--color-foreground);
   }
 }
+
+@theme inline {
+  --color-neon: var(--neon);
+  --color-neon-cyan: var(--neon-cyan);
+}
+
+@utility text-gradient-neon {
+  background: var(--gradient-neon);
+  background-clip: text;
+  color: transparent;
+}
+
+@utility glow-neon {
+  box-shadow: var(--glow-neon);
+}
+
+@utility glow-cyan {
+  box-shadow: var(--glow-cyan);
+}
+
+@utility grid-bg {
+  background-image:
+    radial-gradient(circle at 20% 0%, oklch(0.84 0.19 163 / 12%), transparent 55%),
+    radial-gradient(circle at 85% 10%, oklch(0.78 0.15 225 / 12%), transparent 50%),
+    linear-gradient(to right, oklch(1 0 0 / 3%) 1px, transparent 1px),
+    linear-gradient(to bottom, oklch(1 0 0 / 3%) 1px, transparent 1px);
+  background-size: auto, auto, 48px 48px, 48px 48px;
+}
