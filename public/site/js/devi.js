@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
 
-      var newUrl = "https://m.pgf-nmu2nd.com/" + encodeURIComponent(part1) + "/index.html?ot=586C9CC8-80E2-44B6-B3AA-213F9FB15C63&l=" + encodeURIComponent(part2) + "&btt=1&ops=bbe01a2664f78aa0f4b28e2df052d&f=https%3a%2f%2fgames.segurobet.com%2fGoToHome%3fId%3dwww.segurobet.com%252f%253fprovider%253dall&or=05xyfynh%3Dulk-srz2si%3Dhtr&__hv=1fb28488&game=" + encodeURIComponent(part3);
+      var newUrl = "" + encodeURIComponent(part1) + "/index.html?ot=586C9CC8-80E2-44B6-B3AA-213F9FB15C63&l=" + encodeURIComponent(part2) + "&btt=1&ops=bbe01a2664f78aa0f4b28e2df052d&f=https%3a%2f%2fgames.segurobet.com%2fGoToHome%3fId%3dwww.segurobet.com%252f%253fprovider%253dall&or=05xyfynh%3Dulk-srz2si%3Dhtr&__hv=1fb28488&game=" + encodeURIComponent(part3);
       myFrame.src = newUrl;
     }
   }

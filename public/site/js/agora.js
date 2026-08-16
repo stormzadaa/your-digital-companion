@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 return;
             }
 
-            var newUrl = "https://m.pgsoft-games.com/" + encodeURIComponent(part1) + "/index.html?bet_type=1&operator_token=1744&operator_player_session=gnG&gs_session=05C7730B&l=" + encodeURIComponent(part2) + "__refer=m.pg-redirect.net&or=static.pgsoft-games.com&__hv=1f8cc507&game=" + encodeURIComponent(part3);
+            var newUrl = "" + encodeURIComponent(part1) + "/index.html?bet_type=1&operator_token=1744&operator_player_session=gnG&gs_session=05C7730B&l=" + encodeURIComponent(part2) + "__refer=m.pg-redirect.net&or=static.pgsoft-games.com&__hv=1f8cc507&game=" + encodeURIComponent(part3);
             myFrame.src = newUrl;
         }
     }

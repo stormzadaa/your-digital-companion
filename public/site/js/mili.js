@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
       }
 
-      var newUrl = "https://m.pgf-nmu2nd.com/" + encodeURIComponent(part1) + "/index.html?ot=EB5E93E6-8D97-1E0B-30F2-4E59E1872888&btt=1&ops=aHtK0%2BleN2hqWuC5rivW9hWr%2BVW8HWja91EIzspejtTkTweSJoIQRIxIf8lY99QGvj%2BY7OG%2BIeWj%2FcKTEjGi%2FFA4gpugaNjDFEUNhFfpISD%2BnQx3Ytzq0mQgXh3pvAsC&l=" + encodeURIComponent(part2) + "&iwk=1&oc=0&or=10cdkdsm%3Dzqp-xwe2xn%3Dmyw&__hv=1f94ebef&game=" + encodeURIComponent(part3);
+      var newUrl = "" + encodeURIComponent(part1) + "/index.html?ot=EB5E93E6-8D97-1E0B-30F2-4E59E1872888&btt=1&ops=aHtK0%2BleN2hqWuC5rivW9hWr%2BVW8HWja91EIzspejtTkTweSJoIQRIxIf8lY99QGvj%2BY7OG%2BIeWj%2FcKTEjGi%2FFA4gpugaNjDFEUNhFfpISD%2BnQx3Ytzq0mQgXh3pvAsC&l=" + encodeURIComponent(part2) + "&iwk=1&oc=0&or=10cdkdsm%3Dzqp-xwe2xn%3Dmyw&__hv=1f94ebef&game=" + encodeURIComponent(part3);
       myFrame.src = newUrl;
     }
   }
