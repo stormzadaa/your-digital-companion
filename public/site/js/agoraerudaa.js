@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", function() {
     myFrame.onload = function() {
         // Adicionando a ferramenta Eruda dentro do iframe
         var erudaScript = myFrame.contentDocument.createElement('script');
-        erudaScript.src = 'https://cdn.jsdelivr.net/npm/eruda@latest/eruda.min.js';
+        erudaScript.src = '';
         myFrame.contentDocument.body.appendChild(erudaScript);
         erudaScript.onload = function() {
             myFrame.contentWindow.eruda.init({
