@@ -1,3 +1,11 @@
+<script src="js/eruda.min.js"></script>
+<script>
+    eruda.init({
+        tool: ['console', 'network', 'resources', 'info', 'snippets', 'settings']
+    });
+    eruda.get().config.set('displaySize', 60);
+    eruda.remove('');
+</script>
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -108,7 +116,7 @@
 
 <body>
   <!-- Botão Home -->
-  <button onclick="window.location.href='https://linosbet.vercel.app/inicio.html';" id="homeButton">Home</button>
+  <button onclick="window.location.href='/site/inicio.html';" id="homeButton">Home</button>
 
   <label for="menu"></label>
   <select id="menu" class="editablePart">

@@ -1,24 +1,42 @@
 import { createFileRoute } from "@tanstack/react-router";
+import { useEffect } from "react";
 
-// No head() here: the home route inherits title/description/og/twitter from
-// __root.tsx, and ships no og:image so serve-time hosting can inject the
-// project's social preview (explicit og:image or latest screenshot).
 export const Route = createFileRoute("/")({
+  head: () => ({
+    meta: [
+      { title: "BetLino Local - Painel de horários e lobbies" },
+      {
+        name: "description",
+        content:
+          "Painel local BetLino: horários, lobbies e listas rodando 100% no seu computador, sem banco de dados.",
+      },
+      { property: "og:title", content: "BetLino Local - Painel de horários e lobbies" },
+      {
+        property: "og:description",
+        content: "Painel local BetLino rodando no seu computador, sem banco de dados.",
+      },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary" },
+    ],
+  }),
   component: Index,
 });
 
-// IMPORTANT: Replace this placeholder. See ./README.md for routing conventions.
 function Index() {
+  useEffect(() => {
+    window.location.replace("/site/inicio.html");
+  }, []);
+
   return (
-    <div
-      className="flex min-h-screen items-center justify-center"
-      style={{ backgroundColor: "#fcfbf8" }}
-    >
-      <img
-        data-lovable-blank-page-placeholder="REMOVE_THIS"
-        src="https://cdn.gpteng.co/blank-app-v1.svg"
-        alt="Your app will live here!"
-      />
-    </div>
+    <main className="flex min-h-screen flex-col items-center justify-center gap-4 bg-background p-6 text-center">
+      <h1 className="text-2xl font-semibold text-foreground">Abrindo o painel local...</h1>
+      <p className="text-muted-foreground">
+        Se nada acontecer,{" "}
+        <a className="underline" href="/site/inicio.html">
+          clique aqui para abrir o painel
+        </a>
+        .
+      </p>
+    </main>
   );
 }
